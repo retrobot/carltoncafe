@@ -1,0 +1,2737 @@
+# Copyright (C) 2010 PageLines Framework
+# This file is distributed under the same license as the PageLines Framework package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PageLines Framework 2.0.RC2"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/pagelines"
+"POT-Creation-Date: 2011-12-04 20:53:17+00:00"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+
+#: includes/library.shortcodes.php:130
+msgid "Visit %s&#8217;s website"
+msgstr "Visite el sitio web de% s"
+
+#: includes/library.shortcodes.php:176
+msgid "Leave a Comment"
+msgstr "Deja tu comentario"
+
+#: includes/library.shortcodes.php:177
+msgid "<span class='num'>1</span> Comment"
+msgstr "<span class='num'>1 comentario</span>"
+
+#: includes/library.shortcodes.php:178
+msgid "<span class='num'>%</span> Comments"
+msgstr "<span class='num'>Comentarios%</span>"
+
+#: includes/library.shortcodes.php:212
+msgid "Tagged With: "
+msgstr "Etiquetados con:"
+
+#: includes/library.shortcodes.php:261
+msgid "<span class='editpage sc'>Edit</span>"
+msgstr "<span class='editpage sc'>Editar</span>"
+
+#: includes/class.layout.php:164
+msgid "Main Column"
+msgstr "La columna principal"
+
+#: includes/config.widgets.php:13
+msgid "Creates a third tier navigation (Grandchild). Shows on pages when there are three levels; based on page heirarchy."
+msgstr "Crea un tercio de navegación de nivel (Nieto). Muestra en las páginas cuando hay tres niveles, basado en la jerarquía de página."
+
+#: includes/config.widgets.php:14
+msgid "PageLines Pro - Grandchild Nav"
+msgstr "PageLines Pro - Nieto Nav"
+
+#: includes/config.widgets.php:59
+msgid "There are no options for this widget."
+msgstr "No hay opciones de este widget."
+
+#: includes/library.functions.php:173
+msgid "Sorry, but you don&#8217;t have the administrative privileges needed to do this."
+msgstr "Lo sentimos, pero usted no tiene los privilegios administrativos necesarios para ello."
+
+#: includes/library.functions.php:355
+msgid "Add links using WordPress menus in your site admin."
+msgstr "Añadir enlaces mediante los menús de WordPress en el administrador del sitio."
+
+#: includes/library.functions.php:740
+msgid "Error: Please make sure the Twitter account is <a href='%s'>public</a>."
+msgstr "Error: Por favor, asegúrese de que la cuenta de Twitter es <a href='%s'>pública</a> ."
+
+#: includes/library.functions.php:744
+msgid "Error 403: Your IP is being rate limited by Twitter."
+msgstr "Error 403: Su IP se está limitado por la tasa de Twitter."
+
+#: includes/library.functions.php:748
+msgid "Error 404: Your username was not found on Twitter."
+msgstr "Error 404: Su nombre de usuario no se encuentra en Twitter."
+
+#: includes/library.functions.php:752
+msgid "Error 420: Your IP is being rate limited by Twitter."
+msgstr "Error 420: Su IP se está limitado por la tasa de Twitter."
+
+#: includes/library.functions.php:756
+msgid "Error 502: Twitter is being upgraded."
+msgstr "Error 502: Twitter se está actualizando."
+
+#: includes/library.functions.php:760
+msgid "Unknown Twitter error."
+msgstr "Error desconocido Twitter."
+
+#: includes/class.template.php:910
+msgid "Site Header"
+msgstr "Cabecera del sitio"
+
+#: includes/class.template.php:917
+msgid "Site Footer"
+msgstr "Sitio Pie de página"
+
+#: includes/class.template.php:924
+msgid "Page Templates"
+msgstr "Plantillas de página"
+
+#: includes/class.template.php:931
+msgid "Text Content Area"
+msgstr "Área de texto de contenido"
+
+#: includes/class.template.php:937
+msgid "Morefoot Area"
+msgstr "Morefoot Area"
+
+#: includes/class.template.php:945 admin/class.ui.templates.php:581
+msgid "Sidebar 1"
+msgstr "Sidebar 1"
+
+#: includes/class.template.php:952 admin/class.ui.templates.php:587
+msgid "Sidebar 2"
+msgstr "Sidebar 2"
+
+#: includes/class.template.php:959
+msgid "Sidebar Wrap"
+msgstr "Envuelva la barra lateral"
+
+#: includes/class.template.php:974
+msgid "Default Page"
+msgstr "Página por defecto"
+
+#: includes/class.template.php:978
+msgid "Feature Page"
+msgstr "La página de características"
+
+#: includes/class.template.php:983
+msgid "Carousel Page"
+msgstr "Carrusel página"
+
+#: includes/class.template.php:988
+msgid "Box Page"
+msgstr "Cuadro de"
+
+#: includes/class.template.php:993
+msgid "Highlight Page"
+msgstr "Resalte página"
+
+#: includes/class.template.php:998
+msgid "Banner Page"
+msgstr "Titular de página"
+
+#: includes/class.template.php:1003
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/class.template.php:1007
+msgid "Blog Post"
+msgstr "Entrada de blog"
+
+#: includes/class.template.php:1011
+msgid "Tag"
+msgstr "Día"
+
+#: includes/class.template.php:1016
+msgid "Archive"
+msgstr "Archivo"
+
+#: includes/class.template.php:1021
+msgid "Category"
+msgstr "Categoría"
+
+#: includes/class.template.php:1026 includes/library.templates.php:94
+msgid "Search"
+msgstr "Búsqueda"
+
+#: includes/config.options.php:939
+msgid "Author"
+msgstr "Autor"
+
+#: includes/class.template.php:1036
+msgid "404 Error"
+msgstr "Error 404"
+
+#: includes/actions.site.php:96
+msgid "Google Profile URL"
+msgstr "Google URL"
+
+#: includes/library.layouts.php:52
+msgid "No Image"
+msgstr "No hay imagen"
+
+#: includes/class.objects.php:88
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/class.sections.php:214
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: includes/class.sections.php:215
+msgid "How to use this section"
+msgstr "Cómo utilizar esta sección"
+
+#: includes/class.sections.php:217 admin/class.options.engine.php:604
+msgid "Hide This Overview"
+msgstr "Ocultar este Panorama general"
+
+#: includes/class.sections.php:257
+msgid "Hide Section Guide"
+msgstr "Ocultar Guía de la Sección"
+
+#: includes/class.sections.php:427
+msgid "Set Meta"
+msgstr "Establecer Meta"
+
+#: includes/class.types.php:75 includes/class.types.php:76
+msgid "Add New "
+msgstr "Añadir nuevo"
+
+#: includes/class.types.php:77 includes/class.types.php:78
+msgid "Edit "
+msgstr "Editar"
+
+#: includes/class.types.php:79 includes/class.types.php:80
+msgid "View "
+msgstr "Ver"
+
+#: includes/config.options.php:43
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: includes/config.options.php:44
+msgid "Email Updates"
+msgstr "Actualizaciones por correo electrónico"
+
+#: includes/config.options.php:45
+msgid "Optionally sign up for email updates and notifications"
+msgstr "Opcionalmente inscribirse para recibir actualizaciones por correo electrónico y notificaciones"
+
+#: includes/config.options.php:46
+msgid "Adding your email here will allow us to send you email notifications about updates and new software from PageLines."
+msgstr "Adición de un e-mail aquí nos va a permitir enviar notificaciones por correo electrónico sobre las actualizaciones y nuevo software de PageLines."
+
+#: includes/config.options.php:53
+msgid "Upload custom logo"
+msgstr "Subir logotipo personalizado"
+
+#: includes/config.options.php:54
+msgid "Custom Header Image"
+msgstr "Imagen de cabecera personalizada"
+
+#: includes/config.options.php:55
+msgid "Input Full URL to your custom header or logo image"
+msgstr "Entrada completa URL de tu cabecera personalizada o el logotipo de la imagen"
+
+#: includes/config.options.php:64
+msgid "Favicon Image"
+msgstr "Favicon imagen"
+
+#: includes/config.options.php:65
+msgid "Input Full URL to favicon image (<strong>favicon.ico</strong> image file)"
+msgstr "Entrada completa URL de la imagen favicon (archivo <strong>favicon.ico</strong> imagen)"
+
+#: includes/config.options.php:72
+msgid "Your Twitter Username"
+msgstr "Su Twitter Usuario"
+
+#: includes/config.options.php:73
+msgid "Twitter Integration"
+msgstr "Integración de Twitter"
+
+#: includes/config.options.php:74
+msgid "Places your Twitter feed in your site"
+msgstr "Lugares de su feed de Twitter en su sitio"
+
+#: includes/config.options.php:75
+msgid "This places your Twitter feed on the site. Leave blank if you want to hide or not use."
+msgstr "Esto coloca a su feed de Twitter en el sitio. Dejar en blanco si desea ocultar o no utilizar."
+
+#: includes/config.options.php:83
+msgid "Login Page Image"
+msgstr "Imagen de la página de inicio de sesión"
+
+#: includes/config.options.php:84
+msgid "The image to use on your site's login page"
+msgstr "La imagen que se utilizará en la página de inicio de sesión de su sitio"
+
+#: includes/config.options.php:85
+msgid "This image will be used on the login page to your admin. Use an image that is approximately <strong>80px</strong> in height."
+msgstr "Esta imagen se utilizará en la página de acceso a su administración. Utilizar una imagen que es de aproximadamente <strong>80px</strong> de altura."
+
+#: includes/config.options.php:93
+msgid "Apple Touch Image"
+msgstr "Toque la imagen de Apple"
+
+#: includes/config.options.php:94
+msgid "Input Full URL to Apple touch image (.jpg, .gif, .png)"
+msgstr "Entrada completa URL de la imagen de Apple touch (. Jpg,. Gif,. Png)"
+
+#: includes/config.options.php:104
+msgid "Hide Sidebars When Empty (no widgets)"
+msgstr "Ocultar barras laterales en vacío (sin herramientas)"
+
+#: includes/config.options.php:105
+msgid "Remove Default Sidebars When Empty"
+msgstr "Quitar barras laterales Default Cuando vacíos"
+
+#: includes/config.options.php:106
+msgid "Hide default sidebars when sidebars have no widgets in them"
+msgstr "Ocultar barra lateral por defecto cuando no tienen barras laterales de los widgets en ellos"
+
+#: includes/config.options.php:107
+msgid "This allows you to remove sidebars completely when they have no widgets in them."
+msgstr "Esto le permite quitar las barras laterales completamente cuando no tienen reproductores de ellos."
+
+#: includes/config.options.php:114
+msgid "On Top of Sidebar"
+msgstr "En la cima de la barra lateral"
+
+#: includes/config.options.php:115
+msgid "On Bottom of Sidebar"
+msgstr "En la parte inferior de la barra lateral"
+
+#: includes/config.options.php:117
+msgid "Sidebar Wrap Widgets Position"
+msgstr "Sidebar Widgets Envuelva posición"
+
+#: includes/config.options.php:118
+msgid "Sidebar Wrap Widgets"
+msgstr "Sidebar Widgets Envuelva"
+
+#: includes/config.options.php:119
+msgid "Choose whether to show the sidebar wrap widgets on the top or bottom of the sidebar"
+msgstr "Seleccione si desea mostrar los widgets envolver la barra lateral en la parte superior o inferior de la barra lateral"
+
+#: includes/config.options.php:120
+msgid "You can select whether to show the widgets that you place in the sidebar wrap template in either the top or the bottom of the sidebar."
+msgstr "Puede seleccionar si desea mostrar los widgets que se colocan en la plantilla de envolver la barra lateral en la parte superior o la parte inferior de la barra lateral."
+
+#: includes/config.options.php:143
+msgid "How should layout be handled?"
+msgstr "¿Cómo debe ser manejado de diseño?"
+
+#: includes/config.options.php:150
+msgid "Responsive with Pixel Width"
+msgstr "Sensible, con ancho de píxel"
+
+#: includes/config.options.php:151
+msgid "Responsive with Percent Width"
+msgstr "Porcentaje de respuesta con el ancho de"
+
+#: includes/config.options.php:152
+msgid "Static with Pixel Width"
+msgstr "Estático con ancho de píxel"
+
+#: includes/config.options.php:154
+msgid "Layout Handling"
+msgstr "Diseño de Manejo"
+
+#: includes/config.options.php:155
+msgid "Select between responsive vs. static; pixel based or percentage based layout"
+msgstr "Elegir entre responder frente estático, basado en píxeles o porcentaje de distribución basado en"
+
+#: includes/config.options.php:156
+msgid "Responsive layout adjusts to the size of your user's browser window; static is fixed width. Use this option to switch between the pixel based site width and a percentage based one."
+msgstr "Diseño de respuesta se ajusta al tamaño de la ventana del navegador del usuario; estática es de ancho fijo. Utilice esta opción para cambiar entre el ancho de píxel en función del sitio y un porcentaje basado en una."
+
+#: includes/config.options.php:161 admin/class.options.metapanel.php:673
+msgid "Disable Mobile Optimized View"
+msgstr "Deshabilitar la vista móvil optimizado"
+
+#: includes/config.options.php:162 admin/class.options.metapanel.php:674
+msgid "Disable Mobile View"
+msgstr "Deshabilitar la vista móvil"
+
+#: includes/config.options.php:163 admin/class.options.metapanel.php:675
+msgid "Make it so mobile devices will see the full site, not the mobile optimized one."
+msgstr "Hazlo para los dispositivos móviles ver el sitio completo, no el móvil optimizado."
+
+#: includes/config.options.php:164 admin/class.options.metapanel.php:676
+msgid "By default PageLines accommodates mobile devices resolution and shows a mobile optimized view. Check this option to make it so users see your full site."
+msgstr "Por defecto PageLines capacidad de resolución de dispositivos móviles y muestra una vista optimizada para móviles. Marque esta opción para que así los usuarios ver el sitio completo."
+
+#: includes/config.options.php:169
+msgid "Default Layout Mode"
+msgstr "Por defecto el modo de diseño"
+
+#: includes/config.options.php:170
+msgid "Select Default Layout"
+msgstr "Seleccione Diseño predeterminado"
+
+#: includes/config.options.php:172
+msgid "Select your default layout mode, this can be changed on individual pages.<br />Once selected, you can adjust the layout in the Layout Dimension Editor"
+msgstr "Seleccionar el modo de diseño predeterminado, esto se puede cambiar en las páginas individuales. <br /> Una vez seleccionado, puede ajustar la disposición en el Editor de dimensiones Diseño"
+
+#: includes/config.options.php:173
+msgid "The default layout for pages and posts on your site. Dimensions can be changed using the Layout Dimension Editor."
+msgstr "El diseño predeterminado para las páginas y mensajes en su sitio. Las dimensiones se pueden modificar con el Editor de dimensiones de diseño."
+
+#: includes/config.options.php:180
+msgid "Layout Dimension Editor"
+msgstr "Layout Editor de dimensiones"
+
+#: includes/config.options.php:181
+msgid "Configure the default layout for your site which is initially selected in the Default Layout Mode option in Global Options. <br/>This option allows you to adjust columns and margins for the default layout"
+msgstr "Configurar el formato predeterminado de su sitio que inicialmente seleccionado en la opción por defecto el modo de diseño de Opciones globales. <br/> Esta opción le permite ajustar las columnas y los márgenes para el diseño por defecto"
+
+#: includes/config.options.php:186
+msgid "Reset Layout"
+msgstr "Restablecer diseño"
+
+#: includes/config.options.php:189
+msgid "Reset Layout To Default"
+msgstr "Restablecer diseño a valores por defecto"
+
+#: includes/config.options.php:191
+msgid "Changes layout mode and dimensions back to default"
+msgstr "Cambia el modo de diseño y dimensiones de vuelta a los valores de"
+
+#: includes/config.options.php:218
+msgid "Full-Width Sections"
+msgstr "De ancho completo las secciones"
+
+#: includes/config.options.php:219
+msgid "Content Width Page"
+msgstr "Contenido de la página Ancho"
+
+#: includes/config.options.php:221 includes/config.options.php:222
+msgid "Site Design Mode"
+msgstr "Sitio modo de diseño"
+
+#: includes/config.options.php:223
+msgid "The basic HTML layout structure for color and background effects"
+msgstr "La estructura básica de diseño HTML para los efectos de color y fondo"
+
+#: includes/config.options.php:224
+msgid "This option controls how the basic HTML layout is built. Different layout structures change the way background colors and images behave.<ul><li><strong>Full-Width Mode</strong> Full width design mode allows you to have aspects of your site that are the full-width of your screen; while others are the width of the content area.</li><li><strong>Fixed-Width Mode</strong> Fixed width design mode creates a fixed with <strong>page</strong> that can be used as the area for your design.  You can set a background to the page; and the content will have a seperate <strong>fixed-width</strong> background area (i.e. the width of the content).</li></ul>"
+msgstr "Esta opción controla la forma en que el diseño básico HTML está construido. Diferentes estructuras de diseño cambiar la forma en colores e imágenes de fondo se comportan. <ul><li> <strong>De ancho completo Modo</strong> completo el modo de diseño ancho le permite tener los aspectos de su sitio que son el ancho completo de la pantalla, mientras que otros son el ancho del área de contenido. </li><li> <strong>De anchura fija de modo</strong> fijo el modo de diseño crea un ancho fijo con la <strong>página</strong> que se puede utilizar como la zona para su diseño. Se puede establecer un fondo para la página y el contenido tendrá un <strong>ancho fijo</strong> por separado la zona de fondo (es decir, el ancho del contenido). </li></ul>"
+
+#: includes/config.options.php:227
+msgid "Basic Layout Colors"
+msgstr "Los colores básicos de diseño"
+
+#: includes/config.options.php:228
+msgid "The Main Layout Colors For Your Site"
+msgstr "Los colores del diseño principal para su sitio"
+
+#: includes/config.options.php:229
+msgid "Use these options to quickly setup the main layout colors for your site.  You can use these options to build custom sites very quickly, or to quickly prototype a design then refine through custom CSS.<br/><br/><strong>Notes:</strong> <ol><li>To make the background transparent, you can leave the options blank (delete text).</li>  <li>Further customize and refine colors through custom CSS or plugins</li></ol>"
+msgstr "Utilice estas opciones para configurar rápidamente los colores de diseño principal de su sitio. Usted puede utilizar estas opciones para crear sitios personalizados muy rápidamente, o para crear prototipos rápidamente un diseño personalizado luego refinar a través de CSS. <br/><br/> <strong>Notas:</strong> <ol><li> Para hacer el fondo transparente, se puede dejar en blanco las opciones (borrar el texto). </li><li> Personalizar aún más y perfeccionar los colores a través de CSS personalizado o plugins </li></ol>"
+
+#: includes/config.options.php:238
+msgid "Body Background"
+msgstr "Cuerpo de antecedentes"
+
+#: includes/config.options.php:246
+msgid "Page Background (Optional)"
+msgstr "Fondo de página (opcional)"
+
+#: includes/config.options.php:255
+msgid "Content Background (Optional)"
+msgstr "Antecedentes del contenido (opcional)"
+
+#: includes/config.options.php:324
+msgid "Page Text Colors"
+msgstr "Colores de la página de texto"
+
+#: includes/config.options.php:325
+msgid "Control The Color Of Text Used Throughout Your Site"
+msgstr "Controlar el color del texto utilizado en todo el sitio"
+
+#: includes/config.options.php:326
+msgid "These options control the colors of the text throughout the page or content area of your site.<br/><br/>Certain text types are designed to contrast with different box elements and are meant to be used with hover effects.<br/><br/>Experiment to find exactly how colors are combined with text on your site."
+msgstr "Estas opciones controlan los colores del texto a través de la página o área de contenido de su sitio. <br/><br/> Ciertos tipos de texto están diseñados para contrastar con elementos de cuadro diferente y están destinados a ser utilizados con efectos de la libración. <br/><br/> Experimento para encontrar exactamente los colores se combinan con el texto en su sitio."
+
+#: includes/config.options.php:335
+msgid "Primary Text"
+msgstr "El texto principal"
+
+#: includes/config.options.php:345
+msgid "Text Headers"
+msgstr "Encabezados texto"
+
+#: includes/config.options.php:355
+msgid "Primary Links"
+msgstr "Enlaces primarios"
+
+#: includes/config.options.php:365
+msgid "Footer Text"
+msgstr "Texto del pie"
+
+#: includes/config.options.php:374
+msgid "Disable Text Emboss Effect (Text Shadow)"
+msgstr "Desactivar Texto efecto Relieve (Sombreado del texto)"
+
+#: includes/config.options.php:375
+msgid "Check this option to disable generated text shadows."
+msgstr "Marque esta opción para desactivar las sombras generadas texto."
+
+#: includes/config.options.php:376
+msgid "By default PageLines generates text shadows designed to create an embossing effect. If you want to disable this, simply check this option."
+msgstr "Por defecto PageLines genera sombras de texto diseñado para crear un efecto de relieve. Si desea desactivar esta opción, simplemente marque esta opción."
+
+#: includes/config.options.php:381
+msgid "Enable Content Shadow (Fixed Width Mode Only)"
+msgstr "Habilitar sombra de contenido (el modo de anchura fija solamente)"
+
+#: includes/config.options.php:382
+msgid "Adds a shadow on the fixed width content area for a little style."
+msgstr "Añade una sombra en el área del ancho de contenido fijo para un poco de estilo."
+
+#: includes/config.options.php:383
+msgid "Check this option to enable a drop shadow on the canvas area when using fixed width mode."
+msgstr "Marque esta opción para permitir que una sombra en el área del lienzo cuando se utiliza el modo de ancho fijo."
+
+#: includes/config.options.php:389
+msgid "Site Background Image (Optional)"
+msgstr "Sitio la imagen de fondo (opcional)"
+
+#: includes/config.options.php:390
+msgid "Setup A Background Image For The Background Of Your Site"
+msgstr "Configuración de una imagen de fondo para el fondo de su sitio"
+
+#: includes/config.options.php:391
+msgid "Use this option to apply a background image to your site. This option will be applied to different areas depending on the design mode you have set.<br/><br/><strong>Positioning</strong> Use percentages to position the images, 0% corresponds to the <strong>top</strong> or <strong>left</strong> side, 50% to center, etc.."
+msgstr "Use esta opción para aplicar una imagen de fondo a su sitio. Esta opción se aplicará a las diferentes áreas en función del modo de diseño que haya establecido. <br/><br/> Porcentajes <strong>de posicionamiento</strong> Se utiliza para colocar las imágenes, el 0% corresponde a la parte <strong>superior</strong> o <strong>izquierda,</strong> el 50% de centro, etc."
+
+#: includes/config.options.php:396
+msgid "<strong>Supersize</strong> The Background Image (Fixed Width Mode Required)"
+msgstr "<strong>Supersize</strong> el fondo (el modo de ancho fijo obligatorio)"
+
+#: includes/config.options.php:397
+msgid "Uses a script to set the background for full width and responsive design"
+msgstr "Utiliza una secuencia de comandos para configurar el fondo de ancho y el diseño de respuesta"
+
+#: includes/config.options.php:398
+msgid "Sets the background to match the width of the browser."
+msgstr "Establece el fondo para que coincida con el ancho del navegador."
+
+#: includes/config.options.php:427
+msgid "Typography - Text Headers"
+msgstr "Tipografía - Encabezados Texto"
+
+#: includes/config.options.php:428
+msgid "Select and Style Your Site's Header Tags (H1, H2, H3...)"
+msgstr "Tags seleccionar y estilo de su sitio de encabezado (H1, H2, H3 ...)"
+
+#: includes/config.options.php:429
+msgid "Set typography for your h1, h2, etc.. tags. <br/><br/><strong>*</strong> Denotes Web Safe Fonts<br/><strong>G</strong> Denotes Google Fonts<br/><br/><strong>Note:</strong> These options make use of the <a href='http://code.google.com/webfonts' target='_blank'>Google fonts API</a> to vastly increase the number of websafe fonts you can use."
+msgstr "Establecer la tipografía para su H1, H2, etc. etiquetas. <br/><br/> <strong>*</strong> Indica Web Fuentes de seguridad <br/> <strong>G</strong> Indica Fuentes Google <br/><br/> <strong>Nota:</strong> Estas opciones hacen uso de la <a href='http://code.google.com/webfonts' target='_blank'>API de Google fuentes</a> para aumentar considerablemente el número de fuentes de seguro para la Web que puede utilizar."
+
+#: includes/config.options.php:455
+msgid "The Pro version of this framework has over 50 websafe and Google fonts."
+msgstr "La versión Pro de este marco más de 50 seguro para la Web y las fuentes de Google."
+
+#: includes/config.options.php:464 admin/class.ui.typography.php:41
+msgid "Select Font"
+msgstr "Seleccione Fuente"
+
+#: includes/config.options.php:439
+msgid "Typography - Primary Font"
+msgstr "Tipografía - Fuente primaria"
+
+#: includes/config.options.php:440
+msgid "Select and Style The Standard Type Used In Your Site (body)"
+msgstr "Seleccione y el estilo de tipo estándar utilizado en su sitio (el cuerpo)"
+
+#: includes/config.options.php:441
+msgid "Set typography for your primary site text. This is assigned to your site's body tag. <br/><br/> <strong>*</strong> Denotes Web Safe Fonts<br/><strong>G</strong> Denotes Google Fonts"
+msgstr "Establecer la tipografía para el texto de sitio primario. Este es asignado a la etiqueta body de su sitio. <br/><br/> <strong>*</strong> Indica Web Fuentes de seguridad <br/> <strong>G</strong> Indica Fuentes Google"
+
+#: includes/config.options.php:452
+msgid "Typography - Secondary Font "
+msgstr "Tipografía - Fuente secundaria"
+
+#: includes/config.options.php:453
+msgid "Select and Style Your Site's Secondary or Sub Title Text (Metabar, Sub Titles, etc..)"
+msgstr "Seleccione y estilo de su sitio Web el texto del título secundario o Sub (Metabar, subtítulos, etc.)"
+
+#: includes/config.options.php:454
+msgid "This options sets the typography for secondary text used throughout your site. This includes your navigation, subtitles, widget titles, etc.. <br/><br/> <strong>*</strong> Denotes Web Safe Fonts<br/><strong>G</strong> Denotes Google Fonts"
+msgstr "Esta opción fija la tipografía para el texto de secundaria que se usa en todo el sitio. Esto incluye la navegación, subtítulos, títulos flash, etc. <br/><br/> <strong>*</strong> Indica Web Fuentes de seguridad <br/> <strong>G</strong> Indica Fuentes Google"
+
+#: includes/config.options.php:465
+msgid "Typography - Inputs and Textareas"
+msgstr "Tipografía - Las entradas y áreas de texto"
+
+#: includes/config.options.php:466
+msgid "Select and Style Your Site's Text Inputs and Textareas"
+msgstr "Entradas de selección y el estilo de su sitio de texto y áreas de texto"
+
+#: includes/config.options.php:467
+msgid "This options sets the typography for general text inputs and textarea inputs. This includes default WordPress comment fields, etc.. <br/><br/> This option makes use of the <a href='http://code.google.com/webfonts'>Google fonts API</a> to vastly increase the number of websafe fonts you can use.<br/><strong>*</strong> Denotes web safe fonts<br/><strong>G</strong> Denotes Google fonts<br/><br/><strong>Note:</strong> the <strong>preview</strong> pane represents the font in your current browser and OS. If developing locally, Google fonts require an internet connection."
+msgstr "Esta opción fija la tipografía para las entradas de texto de carácter general e insumos textarea. Esto incluye por defecto los campos de comentario de WordPress, etc. <br/><br/> Esta opción hace uso de la <a href='http://code.google.com/webfonts'>API de Google fuentes</a> para aumentar considerablemente el número de fuentes de seguro para la Web que puede utilizar. <br/> <strong>*</strong> Denota las fuentes web seguras <br/> <strong>G</strong> Indica fuentes Google <br/><br/> <strong>Nota:</strong> el panel de vista <strong>previa</strong> representa la fuente de su navegador y sistema operativo. Si el desarrollo a nivel local, fuentes de Google requiere una conexión a Internet."
+
+#: includes/config.options.php:473
+msgid "Typekit Header Script"
+msgstr "TypeKit script Encabezado"
+
+#: includes/config.options.php:474
+msgid "Typekit Font Replacement"
+msgstr "TypeKit Sustitución de fuente"
+
+#: includes/config.options.php:475
+msgid "Typekit is a service that allows you to use tons of new fonts on your site"
+msgstr "TypeKit es un servicio que permite el uso de toneladas de nuevas fuentes en su sitio"
+
+#: includes/config.options.php:476
+msgid "Typekit is a new service and technique that allows you to use fonts outside of the 10 or so <strong>web-safe</strong> fonts. <br/><br/>Visit <a href='http://www.typekit.com' target='_blank'>Typekit.com</a> to get the script for this option. Instructions for setting up Typekit are <a href='http://typekit.assistly.com/portal/article/6780-Adding-fonts-to-your-site' target='_blank'>here</a>."
+msgstr "TypeKit es un nuevo servicio y la técnica que permite el uso de fuentes fuera de los 10 más o menos <strong>seguro para la Web</strong> de fuentes. <br/><br/> Visita <a href='http://www.typekit.com' target='_blank'>Typekit.com</a> para conseguir el guión de esta opción. Las instrucciones para configurar TypeKit son <a href='http://typekit.assistly.com/portal/article/6780-Adding-fonts-to-your-site' target='_blank'>aquí</a> ."
+
+#: includes/config.options.php:482
+msgid "Use Cufon font replacement?"
+msgstr "Use el reemplazo Cufon fuente?"
+
+#: includes/config.options.php:483
+msgid "Use Cufon Font Replacement"
+msgstr "Uso de sustitución de fuente Cufon"
+
+#: includes/config.options.php:484
+msgid "Use a special font replacement technique for certain text"
+msgstr "Utilice una técnica de reemplazo de la fuente de texto especial para ciertos"
+
+#: includes/config.options.php:485
+msgid "Cufon is a special technique for allowing you to use fonts outside of the 10 or so <strong>web-safe</strong> fonts. <br/><br/>%s is equipped to use it.  Select this option to enable it. Visit the <a href='http://cufon.shoqolate.com/generate/'>Cufon site</a>."
+msgstr "Cufon es una técnica especial para lo que le permite el uso de fuentes fuera de los 10 más o menos <strong>seguro para la Web</strong> de fuentes. <br/><br/> % S está equipado para usarlo. Seleccione esta opción para activarlo. Visite el <a href='http://cufon.shoqolate.com/generate/'>sitio Cufon</a> ."
+
+#: includes/config.options.php:491
+msgid "Cufon replacement font file URL"
+msgstr "Reemplazo de la fuente Cufon archivo URL"
+
+#: includes/config.options.php:492
+msgid "Cufon: Replacement Font File URL"
+msgstr "Cufon: fuente de sustitución de archivos URL"
+
+#: includes/config.options.php:493
+msgid "The font file used to replace text"
+msgstr "El archivo de tipo de letra utilizado para sustituir el texto"
+
+#: includes/config.options.php:494
+msgid "Use the <a href='http://cufon.shoqolate.com/generate/'>Cufon site</a> to generate a font file for use with this theme.  Place it in your theme folder and add the full URL to it here. The default font is Museo Sans."
+msgstr "Utilice el <a href='http://cufon.shoqolate.com/generate/'>sitio Cufon</a> para generar un archivo de fuentes para su uso con este tema. Colóquelo en su carpeta del tema y añadir la dirección URL completa aquí. La fuente predeterminada es Sans Museo."
+
+#: includes/config.options.php:500
+msgid "CSS elements for font replacement"
+msgstr "CSS elementos de sustitución de fuentes"
+
+#: includes/config.options.php:501
+msgid "Cufon: CSS elements for font replacement"
+msgstr "Cufon: elementos de CSS para el reemplazo de la fuente"
+
+#: includes/config.options.php:502
+msgid "Add selectors of elements you would like replaced"
+msgstr "Añadir selectores de elementos que le gustaría reemplazado"
+
+#: includes/config.options.php:503
+msgid "Use standard CSS selectors to replace them with your Cufon font. Font replacement must be enabled."
+msgstr "El uso estándar de los selectores CSS para reemplazarlos con la fuente Cufon. La sustitución de fuentes debe estar habilitado."
+
+#: includes/config.options.php:529
+msgid "Enable Drop Down Navigation?"
+msgstr "Habilitar Opciones de navegación?"
+
+#: includes/config.options.php:530
+msgid "Drop Down Navigation"
+msgstr "Opciones de navegación"
+
+#: includes/config.options.php:531
+msgid "Enable universal drop down navigation"
+msgstr "Habilitar caída universal de navegación de abajo"
+
+#: includes/config.options.php:532
+msgid "Checking this option will create drop down menus for all child pages when users hover over main navigation items."
+msgstr "Al seleccionar esta opción creará menús desplegables para todas las páginas del niño cuando el usuario pasa sobre los elementos de navegación principal."
+
+#: includes/config.options.php:538
+msgid "Enable Shadow on Drop Down Menu?"
+msgstr "Habilitar sombra en Menú desplegable?"
+
+#: includes/config.options.php:539
+msgid "Drop Down Shadow"
+msgstr "Opciones de sombra"
+
+#: includes/config.options.php:540
+msgid "Enable shadow for drop down navigation"
+msgstr "Habilitar sombra para desplegable de navegación"
+
+#: includes/config.options.php:541
+msgid "Checking this option will create shadows for the drop down menus"
+msgstr "Al seleccionar esta opción creará sombras de los menús desplegables"
+
+#: includes/config.options.php:547
+msgid "Enable Arrows on Drop Down Menu?"
+msgstr "Activar las flechas en Menú desplegable?"
+
+#: includes/config.options.php:548
+msgid "Drop Down Arrows"
+msgstr "Flechas desplegables"
+
+#: includes/config.options.php:549
+msgid "Enable arrows for drop down navigation"
+msgstr "Activar las flechas de navegación desplegable"
+
+#: includes/config.options.php:550
+msgid "Checking this option will create arrows for the drop down menus"
+msgstr "Al seleccionar esta opción creará flechas de los menús desplegables"
+
+#: includes/config.options.php:552
+msgid "Select Which Drop Down Options To Show"
+msgstr "Seleccione Opciones ¿Qué opciones para mostrar"
+
+#: includes/config.options.php:553
+msgid "Drop Down Navigation - Nav and BrandNav Section"
+msgstr "Opciones de navegación - navegación y la Sección BrandNav"
+
+#: includes/config.options.php:554 includes/config.options.php:835
+msgid "Select Which To Show"
+msgstr "Seleccione el que mostrar"
+
+#: includes/config.options.php:555
+msgid "Enable drop downs and choose the options you would like to show"
+msgstr "Habilitar menús desplegables y elija las opciones que le gustaría mostrar"
+
+#: includes/config.options.php:562
+msgid "Hide search field?"
+msgstr "Ocultar campo de búsqueda?"
+
+#: includes/config.options.php:563
+msgid "Hide Search - Nav Section"
+msgstr "Ocultar la búsqueda - Sección de navegación"
+
+#: includes/config.options.php:564
+msgid "Remove the search field from the nav section"
+msgstr "Eliminar el campo de búsqueda en la sección de navegación"
+
+#: includes/config.options.php:565
+msgid "Removes the search field from the PageLines Navigation Section."
+msgstr "Elimina el campo de búsqueda de la Sección de PageLines navegación."
+
+#: includes/config.options.php:572
+msgid "Distance From Bottom (in pixels)"
+msgstr "Distancia desde el fondo (en píxeles)"
+
+#: includes/config.options.php:573
+msgid "Distance From Right (in pixels)"
+msgstr "Distancia desde la derecha (en píxeles)"
+
+#: includes/config.options.php:575
+msgid "Social Icon Position"
+msgstr "Icono Posición sociales"
+
+#: includes/config.options.php:576
+msgid "Control the location of the social icons in the branding section"
+msgstr "Controlar la ubicación de los iconos sociales en la sección de la marca"
+
+#: includes/config.options.php:577
+msgid "Set the position of your header icons with these options. They will be relative to the <strong>branding</strong> section of your site."
+msgstr "Fijar la posición de tus iconos de cabecera con estas opciones. Que será relativa a la sección de <strong>la marca</strong> de su sitio."
+
+#: includes/config.options.php:582
+msgid "Display the Blog RSS icon and link?"
+msgstr "Mostrar el icono de RSS Blog y enlace?"
+
+#: includes/config.options.php:583
+msgid "News/Blog RSS Icon"
+msgstr "Noticias / blog RSS Icon"
+
+#: includes/config.options.php:584
+msgid "Places News/Blog RSS icon in your header"
+msgstr "Noticias / Blog RSS icono de lugares en la cabecera"
+
+#: includes/config.options.php:592
+msgid "Your Google+ Profile URL"
+msgstr "Su Google + URL"
+
+#: includes/config.options.php:593
+msgid "Your Facebook Profile URL"
+msgstr "Su URL Facebook"
+
+#: includes/config.options.php:594
+msgid "Your Twitter Profile URL"
+msgstr "Su Twitter URL"
+
+#: includes/config.options.php:595
+msgid "Your LinkedIn Profile URL"
+msgstr "Su URL LinkedIn"
+
+#: includes/config.options.php:596
+msgid "Your YouTube Profile URL"
+msgstr "Su YouTube URL"
+
+#: includes/config.options.php:598
+msgid "Social Icons"
+msgstr "Los iconos sociales"
+
+#: includes/config.options.php:599
+msgid "Add social network profile icons to your header"
+msgstr "Agregar iconos de perfil de red social, a su cabecera"
+
+#: includes/config.options.php:600
+msgid "Fill in the URLs of your social networking profiles. This option will create icons in the header/branding section of your site."
+msgstr "Rellene las URL de sus perfiles de redes sociales. Esta opción creará iconos en la sección de encabezado y / o marca de su sitio."
+
+#: includes/config.options.php:605
+msgid "Use Child Pages For Secondary Nav?"
+msgstr "Use páginas secundarias para navegación secundaria?"
+
+#: includes/config.options.php:606
+msgid "Use Child Pages for Secondary Nav"
+msgstr "Use páginas secundarias para navegación secundaria"
+
+#: includes/config.options.php:607
+msgid "Use this options if you want child pages in secondary nav, instead of WP menus"
+msgstr "Use esta opción si desea que las páginas secundarias de navegación secundaria, en vez de menús de WP"
+
+#: includes/config.options.php:623
+msgid "Add Footer logo"
+msgstr "Añadir el logotipo de pie de página"
+
+#: includes/config.options.php:624
+msgid "Footer Logo"
+msgstr "Logo de pie de página"
+
+#: includes/config.options.php:625
+msgid "Show a logo in the footer"
+msgstr "Mostrar un logotipo en el pie"
+
+#: includes/config.options.php:626
+msgid "Add the full url of an image for use in the footer. Recommended size: 140px wide."
+msgstr "Agregue la dirección URL completa de una imagen para su uso en el pie de página. El tamaño recomendado: 140px de ancho."
+
+#: includes/config.options.php:629
+msgid "Thanks for dropping by! Feel free to join the discussion by leaving comments, and stay updated by subscribing to the <a href='%s'>RSS feed</a>."
+msgstr "Gracias por visitarnos! Siéntase libre de unirse a la discusión al dejar comentarios, y se mantengan actualizados mediante la suscripción de la <a href='%s'>fuente RSS</a> ."
+
+#: includes/config.options.php:631
+msgid "More Statement In Footer"
+msgstr "Más declaración en el pie"
+
+#: includes/config.options.php:632
+msgid "More Statement"
+msgstr "Más declaración"
+
+#: includes/config.options.php:633
+msgid "Add a quick statement for users who want to know more..."
+msgstr "Agregue una instrucción rápida para los usuarios que quieren saber más ..."
+
+#: includes/config.options.php:634
+msgid "This statement will show in the footer columns under the word more. It is for users who may want to know more about your company or service."
+msgstr "Esta declaración se muestran en las columnas de pie de página en la palabra más. Es para aquellos usuarios que quieran saber más sobre su empresa o servicio."
+
+#: includes/config.options.php:639
+msgid "Terms line in footer:"
+msgstr "Términos de línea en el pie de página:"
+
+#: includes/config.options.php:640
+msgid "Site Terms Statement"
+msgstr "Condiciones del sitio Declaración de"
+
+#: includes/config.options.php:641
+msgid "A line in your footer for <strong>terms and conditions</strong> text or similar"
+msgstr "Una línea en el pie de página de <strong>términos y condiciones</strong> de texto o similares"
+
+#: includes/config.options.php:642
+msgid "It's sometimes a good idea to give your users a terms and conditions statement so they know how they should use your service or content."
+msgstr "A veces es una buena idea dar a los usuarios una declaración de términos y condiciones para que sepan cómo deben utilizar su servicio o contenido."
+
+#: includes/config.options.php:669
+msgid "Magazine Layout Mode"
+msgstr "Revista el modo de diseño"
+
+#: includes/config.options.php:670
+msgid "Blog Layout Mode"
+msgstr "Blog modo de diseño"
+
+#: includes/config.options.php:672
+msgid "Select Post Layout Mode"
+msgstr "Seleccione el modo de mensaje Diseño"
+
+#: includes/config.options.php:673
+msgid "Blog Post Layout Mode"
+msgstr "Modo de diseño post en tu blog"
+
+#: includes/config.options.php:674
+msgid "Choose between magazine style and blog style layout"
+msgstr "Elegir entre el estilo de la revista y el diseño estilo blog"
+
+#: includes/config.options.php:675
+msgid "Choose between two magazine or blog layout mode. <br/><br/> <strong>Magazine Layout Mode</strong><br/> Magazine layout mode makes use of post <strong>clips</strong>. These are summarized excerpts shown at half the width of the main content column.<br/>  <strong>Note:</strong> There is an option for showing <strong>full-width</strong> posts on your main <strong>posts</strong> page.<br/><br/><strong>Blog Layout Mode</strong><br/> This is your classical blog layout. Posts span the entire width of the main content column."
+msgstr "Elegir entre dos o revista de modo de diseño del blog. <br/><br/> <strong>Revista el modo de diseño</strong> <br/> Modo de revista de diseño hace uso de <strong>clips</strong> de correos. Estos se resumen extractos se muestra en la mitad del ancho de la columna de contenido principal. <br/> <strong>Nota:</strong> Hay una opción para mostrar <strong>a todo lo ancho</strong> mensajes en la página de <strong>los mensajes</strong> principales. <br/><br/> <strong>Blog modo de diseño</strong> <br/> Este es su diseño del blog clásica. Mensajes abarcar todo el ancho de la columna de contenido principal."
+
+#: includes/config.options.php:680
+msgid "Select Excerpt Mode"
+msgstr "Seleccione el modo de Extracto"
+
+#: includes/config.options.php:687 includes/config.options.php:716
+msgid "Left Justified"
+msgstr "Justificado a la izquierda"
+
+#: includes/config.options.php:688 includes/config.options.php:717
+msgid "On Top"
+msgstr "En la cima"
+
+#: includes/config.options.php:689 includes/config.options.php:718
+msgid "Left, In Excerpt"
+msgstr "Izquierda, en el extracto"
+
+#: includes/config.options.php:690 includes/config.options.php:719
+msgid "Right, In Excerpt"
+msgstr "Derecho, en el extracto"
+
+#: includes/config.options.php:693
+msgid "Feature Post Excerpt Mode"
+msgstr "Nota característica del modo Extracto"
+
+#: includes/config.options.php:694
+msgid "Select how thumbs should be handled in full-width posts"
+msgstr "Seleccione la forma pulgares deben ser manejados en todo el ancho mensajes"
+
+#: includes/config.options.php:695
+msgid "Use this option to configure how thumbs will be shown in full-width posts on your blog page."
+msgstr "Utilice esta opción para configurar la forma en los pulgares se mostrará en todo lo ancho mensajes en su página blog."
+
+#: includes/config.options.php:700
+msgid "Configure Full Width Post Metabar"
+msgstr "Configurar Metabar completa Nota Ancho"
+
+#: includes/config.options.php:701
+msgid "Full Width Post Meta"
+msgstr "Ancho total Meta post"
+
+#: includes/config.options.php:703
+msgid "Additional information about a post such as Author, Date, etc..."
+msgstr "Información adicional acerca de un mensaje como el autor, fecha, etc .."
+
+#: includes/config.options.php:704 includes/config.options.php:733
+msgid "Use shortcodes to control the dynamic information in your metabar. Example shortcodes you can use are: <ul><li><strong>[post_categories]</strong> - List of categories</li><li><strong>[post_edit]</strong> - Link for admins to edit the post</li><li><strong>[post_tags]</strong> - List of post tags</li><li><strong>[post_comments]</strong> - Link to post comments</li><li><strong>[post_author_posts_link]</strong> - Author and link to archive</li><li><strong>[post_author_link]</strong> - Link to author URL</li><li><strong>[post_author]</strong> - Post author with no link</li><li><strong>[post_time]</strong> - Time of post</li><li><strong>[post_date]</strong> - Date of post</li></ul>"
+msgstr "Use códigos cortos para controlar la información dinámica en su metabar. Shortcodes ejemplo que puede utilizar son: <ul><li> <strong>[Post_categories]</strong> - Lista de categorías </li><li> <strong>[Post_edit]</strong> - Link para administradores para editar el mensaje </li><li> <strong>[Post_tags]</strong> - Lista de etiquetas de mensaje </li><li> <strong>[Post_comments]</strong> - Enlace para enviar comentarios </li><li> <strong>[Post_author_posts_link]</strong> - Autor y el enlace al archivo </li><li> <strong>[Post_author_link]</strong> - Enlace a la URL del autor </li><li> <strong>[Post_author]</strong> - Autor sin ningún vínculo </li><li> <strong>[Post_time]</strong> - Hora de la publicación </li><li> <strong>[Post_date]</strong> - Fecha de mensaje </li></ul>"
+
+#: includes/config.options.php:709
+msgid "Select Clip Excerpt Mode"
+msgstr "Seleccione el modo de Clip Extracto"
+
+#: includes/config.options.php:722
+msgid "Clip Excerpt Mode"
+msgstr "Clip modo Extracto"
+
+#: includes/config.options.php:723
+msgid "Select how thumbs should be handled in clips"
+msgstr "Seleccione la forma pulgares deben ser tratados de clips"
+
+#: includes/config.options.php:724
+msgid "Use this option to configure how thumbs will be shown in clips. These are the smaller <strong>magazine</strong> style excerpts on your blog page."
+msgstr "Utilice esta opción para configurar la forma en los pulgares se muestra en los clips. Estos son los fragmentos más pequeños de estilo <strong>revista</strong> en su página blog."
+
+#: includes/config.options.php:730
+msgid "Configure Clip Metabar"
+msgstr "Configure Clip metabolismo"
+
+#: includes/config.options.php:731
+msgid "Clip Metabar"
+msgstr "Clip Metabar"
+
+#: includes/config.options.php:732
+msgid "Additional information about a clip such as Author, Date, etc..."
+msgstr "Información adicional acerca de un clip, como autor, fecha, etc .."
+
+#: includes/config.options.php:740
+msgid "Number of Full Width Posts?"
+msgstr "Número de puestos de ancho total?"
+
+#: includes/config.options.php:741
+msgid "Full Width Posts (Magazine Layout Mode Only)"
+msgstr "Mensajes de anchura completa (modo Revista Layout Only)"
+
+#: includes/config.options.php:742
+msgid "When using magazine layout mode, select the number of <strong>featured</strong> or full-width posts"
+msgstr "Cuando se utiliza el modo de revista de diseño, seleccione el número de puestos <strong>destacados</strong> o ancho completo"
+
+#: includes/config.options.php:743
+msgid "Select the number of posts you would like shown at the full width of the main content column in magazine layout mode (the rest will be half-width post <strong>clips</strong>)."
+msgstr "Seleccione el número de entradas que como se muestra en todo el ancho de la columna de contenido principal en el modo de diseño de la revista (el resto será la mitad de ancho de <strong>clips</strong> de correos)."
+
+#: includes/config.options.php:801
+msgid "Posts/Blog Page"
+msgstr "Mensajes / Page Blog"
+
+#: includes/config.options.php:749 includes/config.options.php:763
+msgid "Single Post Pages"
+msgstr "Páginas Mensaje Individual"
+
+#: includes/config.options.php:802 admin/library.help.php:41
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: includes/config.options.php:803
+msgid "Category Lists"
+msgstr "Listas de la categoría"
+
+#: includes/config.options.php:804
+msgid "Post Archives"
+msgstr "Publicar Archivos"
+
+#: includes/config.options.php:753
+msgid "In Post Clips (Magazine Mode)"
+msgstr "Clips (modo Magazine)"
+
+#: includes/config.options.php:755
+msgid "Post Thumbnail Placement"
+msgstr "Después de la colocación Miniatura"
+
+#: includes/config.options.php:756
+msgid "Where should the theme use post thumbnails?"
+msgstr "¿Dónde poner el tema de usar las miniaturas mensaje?"
+
+#: includes/config.options.php:757
+msgid "Use this option to control where post <strong>featured images</strong> or thumbnails are used. Note: The post clips option only applies when magazine layout is selected."
+msgstr "Utilice esta opción para controlar dónde colocar <strong>imágenes aparece</strong> o miniaturas se utilizan. Nota: La opción de publicar clips sólo se aplica cuando se selecciona la revista de diseño."
+
+#: includes/config.options.php:768
+msgid "Post Excerpt or Summary Handling"
+msgstr "Extracto mensaje o manipulación Resumen"
+
+#: includes/config.options.php:769
+msgid "Where should the theme use post excerpts when showing full column posts?"
+msgstr "¿Dónde poner el tema de uso de extractos de mensaje al mostrar los mensajes columna completa?"
+
+#: includes/config.options.php:770
+msgid "This option helps you control where post excerpts are displayed.<br/><br/> <strong>About:</strong> Excerpts are small summaries of articles filled out when creating a post."
+msgstr "Esta opción le ayuda a controlar donde se muestran extractos de mensaje. <br/><br/> <strong>Acerca de:</strong> Extractos son resúmenes de los artículos pequeños llenado cuando se crea un puesto."
+
+#: includes/config.options.php:776
+msgid "Automatically show Page titles?"
+msgstr "Muestra automáticamente los títulos de página?"
+
+#: includes/config.options.php:777
+msgid "Page Titles"
+msgstr "Títulos de página"
+
+#: includes/config.options.php:778
+msgid "Show the title of pages above the page content."
+msgstr "Muestra el título de las páginas sobre el contenido de la página."
+
+#: includes/config.options.php:779
+msgid "This option will automatically place page titles on all pages."
+msgstr "Esta opción colocará automáticamente los títulos de página en todas las páginas."
+
+#: includes/config.options.php:785
+msgid "Continue Reading Link Text"
+msgstr "Continue Reading Text Link"
+
+#: includes/config.options.php:786
+msgid "<strong>Continue Reading</strong> Link Text (When Using Excerpts)"
+msgstr "<strong>Continuar leyendo</strong> texto del enlace (en el uso de extractos)"
+
+#: includes/config.options.php:787
+msgid "The link at the end of your excerpt"
+msgstr "El enlace al final de su pasaje"
+
+#: includes/config.options.php:788
+msgid "This text will be used as the link to your full article when viewing articles on your posts page (when excerpts are turned on)."
+msgstr "Este texto se utilizará como el enlace a su artículo completo al ver los artículos en su página de mensajes (cuando extractos se encienden)."
+
+#: includes/config.options.php:793
+msgid "Show Comments Link?"
+msgstr "Mostrar enlace a los comentarios?"
+
+#: includes/config.options.php:794
+msgid "Show Comments Link After Teasers/Excerpt?"
+msgstr "Mostrar comentarios Enlace Después de Teasers / Extracto?"
+
+#: includes/config.options.php:795
+msgid "Shows the number of comments after a teaser or excerpt on your blog page"
+msgstr "Muestra el número de comentarios después de que un bromista o un extracto en la página del blog"
+
+#: includes/config.options.php:806
+msgid "Full Post Content"
+msgstr "Contenido post completo"
+
+#: includes/config.options.php:807
+msgid "In addition to single post pages and page templates, where should the theme place the full content of posts?"
+msgstr "Además de las páginas de entradas individuales y las plantillas de página, donde se debe colocar el tema de todo el contenido de los mensajes?"
+
+#: includes/config.options.php:808
+msgid "Choose where the full content of posts is displayed. Choose between all posts pages or just single post pages (i.e. posts pages can just show excerpts or titles)."
+msgstr "Elija donde todo el contenido de los mensajes en la pantalla. Elija entre todas las páginas de los mensajes o páginas individualmente (como las páginas de los mensajes es decir, sólo puede mostrar fragmentos o títulos)."
+
+#: includes/config.options.php:814 includes/config.options.php:815
+msgid "Post Footer Social Links Text"
+msgstr "Mensaje de texto Pie de vínculos sociales"
+
+#: includes/config.options.php:816
+msgid "The text next to your social icons"
+msgstr "El texto junto a los iconos sociales"
+
+#: includes/config.options.php:826
+msgid "Facebook Sharing Icon"
+msgstr "Facebook Compartir Icono"
+
+#: includes/config.options.php:827
+msgid "Twitter Sharing Icon"
+msgstr "Twitter Compartir Icono"
+
+#: includes/config.options.php:828
+msgid "Del.icio.us Sharing Icon"
+msgstr "Del.icio.us icono Compartir"
+
+#: includes/config.options.php:829
+msgid "Reddit Sharing Icon"
+msgstr "Imágenes de icono Compartir"
+
+#: includes/config.options.php:830
+msgid "Digg Sharing Icon"
+msgstr "Compartir Digg Icono"
+
+#: includes/config.options.php:831
+msgid "StumbleUpon Sharing Icon"
+msgstr "StumbleUpon icono Compartir"
+
+#: includes/config.options.php:833
+msgid "Select Which Share Links To Show"
+msgstr "Seleccionar qué compartir enlaces a Mostrar"
+
+#: includes/config.options.php:834
+msgid "Post Footer Sharing Icons"
+msgstr "Iconos de pie de página después de compartir"
+
+#: includes/config.options.php:843
+msgid "Number of words."
+msgstr "Número de palabras."
+
+#: includes/config.options.php:844
+msgid "Excerpt Length"
+msgstr "Extracto de longitud"
+
+#: includes/config.options.php:845
+msgid "Set the length of excerpts to something other than default"
+msgstr "Establecer la longitud de fragmentos de algo que no sea por defecto"
+
+#: includes/config.options.php:846
+msgid "Excerpts are set to 55 words by default."
+msgstr "Extractos se establecen en 55 palabras por defecto."
+
+#: includes/config.options.php:852
+msgid "Allowed Tags"
+msgstr "Tags permitido"
+
+#: includes/config.options.php:853
+msgid "Allow Tags in Excerpt"
+msgstr "Permitir Tags en Extracto"
+
+#: includes/config.options.php:854
+msgid "Control which tags are stripped from excerpts"
+msgstr "Control de las etiquetas que son despojados de citas"
+
+#: includes/config.options.php:855
+msgid "By default WordPress strips all HTML tags from excerpts. You can use this option to allow certain tags. Simply enter the allowed tags in this field. <br/>An example of allowed tags could be: <strong>&lt;p&gt;&lt;br&gt;&lt;a&gt;</strong>. <br/><br/> <strong>Note:</strong> Enter a period <strong>.</strong> to disallow all tags."
+msgstr "Por defecto WordPress quita todas las etiquetas HTML a partir de extractos. Usted puede utilizar esta opción para permitir que ciertas etiquetas. Basta con introducir las etiquetas permitido en este campo. <br/> Un ejemplo de etiquetas permitidas podrían ser: <strong>&lt;a&gt; &lt;p&gt; &lt;br&gt;.</strong> <br/><br/> <strong>Nota:</strong> Introduzca un período de rechazar todas las <strong>etiquetas..</strong>"
+
+#: includes/config.options.php:875
+msgid "Include Google IE Compatibility Script?"
+msgstr "Google incluye comandos de compatibilidad de IE?"
+
+#: includes/config.options.php:876
+msgid "Google IE Compatibility Fix"
+msgstr "Google IE corrección de compatibilidad"
+
+#: includes/config.options.php:877
+msgid "Include a Google JS script that fixes problems with IE"
+msgstr "Incluir un script de Google JS que corrige los problemas con IE"
+
+#: includes/config.options.php:878
+msgid "More info on this can be found <a target='_blank' href='http://code.google.com/p/ie7-js/'>here</a>."
+msgstr "Más información sobre esto se puede encontrar <a target='_blank' href='http://code.google.com/p/ie7-js/'>aquí</a> ."
+
+#: includes/config.options.php:883
+msgid "Enter Partner Link"
+msgstr "Ingrese enlace afiliado"
+
+#: includes/config.options.php:884
+msgid "PageLines Partner Link"
+msgstr "PageLines enlace afiliado"
+
+#: includes/config.options.php:885
+msgid "Change your PageLines footer link to a partner link"
+msgstr "Cambiar el enlace de pie de página PageLines a un enlace de socio"
+
+#: includes/config.options.php:886
+msgid "If you are a <a target='_blank' href='http://www.pagelines.com/partners'>PageLines Partner</a> enter your link here and the footer link will become a partner or affiliate link."
+msgstr "Si usted es un <a target='_blank' href='http://www.pagelines.com/partners'>socio PageLines</a> entrar en el enlace aquí y el enlace de pie de página se convertirá en un enlace de socio o afiliado."
+
+#: includes/config.options.php:892
+msgid "Disable AJAX Saving?"
+msgstr "Desactivar el Ahorro de AJAX?"
+
+#: includes/config.options.php:893
+msgid "Disable AJAX Saving"
+msgstr "Desactivar ahorro de AJAX"
+
+#: includes/config.options.php:894
+msgid "Check to disable AJAX saving"
+msgstr "De verificación para desactivar AJAX ahorro"
+
+#: includes/config.options.php:895
+msgid "Check this option if you are having problems with AJAX saving. For example, if design control or typography options aren't working"
+msgstr "Marque esta opción si usted está teniendo problemas con el ahorro de AJAX. Por ejemplo, si el control de diseño y opciones de tipografía no están funcionando"
+
+#: includes/config.options.php:912
+msgid "Hide the introduction?"
+msgstr "Ocultar la introducción?"
+
+#: includes/config.options.php:913
+msgid "Show Theme Introduction"
+msgstr "Mostrar Introducción Tema"
+
+#: includes/config.options.php:914
+msgid "Uncheck this option to show theme introduction"
+msgstr "Desactive esta opción para mostrar introducción tema"
+
+#: includes/config.options.php:922 includes/config.options.php:937
+msgid "Administrator"
+msgstr "Administrador"
+
+#: includes/config.options.php:923 includes/config.options.php:938
+msgid "Editor"
+msgstr "Editor"
+
+#: includes/config.options.php:925 includes/config.options.php:940
+msgid "Contributor"
+msgstr "Contribuyente"
+
+#: includes/config.options.php:927
+msgid "Minimum user level for Post/Page Meta Settings"
+msgstr "Nivel mínimo de usuario para la configuración de Meta post / página"
+
+#: includes/config.options.php:928
+msgid "User Levels"
+msgstr "Niveles de usuario"
+
+#: includes/config.options.php:929
+msgid "Set userlevels for the different settings pages. "
+msgstr "Establecer Userlevels de las páginas de configuración diferentes."
+
+#: includes/config.options.php:930
+msgid "Members with a user level lower than the settings here will not be able to see the settings."
+msgstr "Miembros con un nivel de usuario más bajos que los valores aquí no podrá ver la configuración."
+
+#: includes/config.options.php:942
+msgid "Minimum user level for Custom Post Types ( banners, features etc )"
+msgstr "A nivel de usuario mínimo para los tipos de mensaje personalizado (banners, funciones, etc)"
+
+#: includes/config.options.php:967
+msgid "CSS Rules"
+msgstr "Reglas CSS"
+
+#: includes/config.options.php:968
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: includes/config.options.php:969
+msgid "Insert custom CSS styling here. It will be stored in the DB and not overwritten. <br/>Note: The professional way to customize your site is using a child theme, or customization plugin"
+msgstr "Personalizar inserción estilo CSS aquí. Que se almacenarán en la base de datos y no sobrescribe. <br/> Nota: La forma profesionales para personalizar el sitio está usando un tema menor, o personalización de plug-in"
+
+#: includes/config.options.php:970
+msgid "<div class='theexample'>Example:<br/> <strong>body{<br/> &nbsp;&nbsp;color:  #3399CC;<br/>&nbsp;&nbsp;line-height: 20px;<br/>&nbsp;&nbsp;font-size: 11px<br/>}</strong></div>Enter CSS Rules to change the style of your site.<br/><br/> A lot can be accomplished by simply changing the default styles of the <strong>body</strong> tag such as <strong>line-height</strong>, <strong>font-size</strong>, or <strong>color</strong> (as in text color)."
+msgstr "<div class='theexample'> Ejemplo: <br/> <strong>body { <br/> color: # 3399CC; <br/> line-height: 20px; <br/> font-size: 11px <br/> }</strong> </div> Introduzca reglas CSS para cambiar el estilo de su sitio. <br/><br/> Mucho se puede lograr simplemente cambiando los estilos predeterminados de la etiqueta del <strong>cuerpo,</strong> tales como <strong>line-height, tamaño de fuente</strong> o el <strong>color</strong> (como en el color del texto)."
+
+#: includes/config.options.php:972
+msgid "View Customization Documentation"
+msgstr "Ver la documentación de personalización"
+
+#: includes/config.options.php:980
+msgid "Headerscripts Code"
+msgstr "Headerscripts Código"
+
+#: includes/config.options.php:981
+msgid "Header Scripts"
+msgstr "Scripts de cabecera"
+
+#: includes/config.options.php:982
+msgid "Scripts inserted directly before the end of the HTML &lt;head&gt; tag"
+msgstr "Secuencias de comandos inserta directamente antes del final de la etiqueta HTML &lt;head&gt;"
+
+#: includes/config.options.php:989
+msgid "Footerscripts Code or Analytics"
+msgstr "Footerscripts código o Analytics"
+
+#: includes/config.options.php:990
+msgid "Footer Scripts &amp; Analytics"
+msgstr "Scripts de pie de página y de aguas residuales"
+
+#: includes/config.options.php:991
+msgid "Any footer scripts including Google Analytics"
+msgstr "Todas las secuencias de pie de página como Google Analytics"
+
+#: includes/config.options.php:999 includes/config.options.php:1000
+msgid "Asynchronous Analytics"
+msgstr "Analytics asíncrono"
+
+#: includes/config.options.php:1001
+msgid "Placeholder for Google asynchronous analytics. Goes underneath <strong>body</strong> tag"
+msgstr "Marcador de posición para el análisis asíncrono de Google. Va por debajo de la etiqueta del <strong>cuerpo</strong>"
+
+#: includes/library.templates.php:241
+msgid "Page %s"
+msgstr "Página% s"
+
+#: includes/library.templates.php:356
+msgid "&larr; Previous Entries"
+msgstr "← Entradas anteriores"
+
+#: includes/library.templates.php:357
+msgid "Next Entries &rarr;"
+msgstr "Entradas siguientes →"
+
+#: includes/library.templates.php:388
+msgid "<ul class='inline-list'>Please select a nav menu for this area in the <a href='%s'>WordPress menu admin</a>.</ul>"
+msgstr "<ul class='inline-list'> Por favor, seleccione un menú de navegación para esta área en el <a href='%s'>menú de administración de WordPress</a> . </ul>"
+
+#: sections/footcols/section.php:47
+msgid "Home"
+msgstr "Casa"
+
+#: includes/library.templates.php:481
+msgid "PageLines"
+msgstr "PageLines"
+
+#: admin/actions.options.php:34 admin/class.options.ui.php:22
+msgid "Settings"
+msgstr "Configuración"
+
+#: admin/library.help.php:50
+msgid "Templates"
+msgstr "Plantillas"
+
+#: includes/library.templates.php:484 admin/actions.options.php:36
+msgid "Special"
+msgstr "Especial"
+
+#: includes/library.templates.php:485 admin/actions.options.php:37
+msgid "Store"
+msgstr "Tienda"
+
+#: includes/library.templates.php:486 admin/actions.options.php:38
+msgid "Account"
+msgstr "Cuenta"
+
+#: includes/library.templates.php:491
+msgid "Current Page: "
+msgstr "Página actual:"
+
+#: includes/library.templates.php:498
+msgid "Edit Special"
+msgstr "Edición Especial"
+
+#: includes/class.posts.php:35
+msgid "[Continue Reading...]"
+msgstr "[Leer más ...]"
+
+#: includes/class.posts.php:121
+msgid "<p class='content-pagination'><span class='cp-desc'>pages:</span>"
+msgstr "<p class='content-pagination'> <span class='cp-desc'>páginas:</span>"
+
+#: includes/class.posts.php:124
+msgid "Tagged with: "
+msgstr "Etiquetado en:"
+
+#: includes/class.posts.php:250
+msgid "Link To"
+msgstr "Vincular a"
+
+#: includes/class.posts.php:275 includes/class.posts.php:281
+msgid "On"
+msgstr "En"
+
+#: includes/class.posts.php:275 includes/class.posts.php:281
+msgid "By"
+msgstr "Por"
+
+#: includes/class.posts.php:281
+msgid "In"
+msgstr "En"
+
+#: includes/class.posts.php:336
+msgid "View"
+msgstr "Ver"
+
+#: includes/class.posts.php:459
+msgid "No results for &quot;%s&quot;"
+msgstr "No hay resultados para &quot;% s&quot;"
+
+#: includes/class.posts.php:459
+msgid "Nothing Found"
+msgstr "No se encontró nada"
+
+#: includes/class.posts.php:461
+msgid "Try another search?"
+msgstr "Realiza una nueva búsqueda?"
+
+#: includes/class.posts.php:461
+msgid "Sorry, what you are looking for isn't here."
+msgstr "Lo sentimos, lo que está buscando no está aquí."
+
+#: includes/widgets.default.php:3
+msgid "Categories"
+msgstr "Categorías"
+
+#: includes/widgets.default.php:12 sections/morefoot/section.php:81
+msgid "Archives"
+msgstr "Archivo"
+
+#: includes/widgets.default.php:21
+msgid "Calendar"
+msgstr "Calendario"
+
+#: includes/widgets.default.php:30
+msgid "Meta"
+msgstr "Meta"
+
+#: includes/widgets.default.php:35
+msgid "Entries (RSS)"
+msgstr "Entradas (RSS)"
+
+#: comments.php:24
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Este post está protegido con contraseña. Introduzca la contraseña para ver los comentarios."
+
+#: comments.php:31
+msgid "One Response to %2$s"
+msgstr "One Response to% 2 $ s"
+
+#: comments.php:40
+msgid "<span class='meta-nav'>&larr;</span> Older Comments"
+msgstr "<span class='meta-nav'>←</span> Comentarios más antiguos"
+
+#: comments.php:41
+msgid "Newer Comments <span class='meta-nav'>&rarr;</span>"
+msgstr "Comentarios más recientes <span class='meta-nav'>→</span>"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: admin/class.extend.integrations.php:53
+msgid "Options Activated"
+msgstr "Opciones Activado"
+
+#: admin/class.extend.integrations.php:64
+msgid "Options Deactivated"
+msgstr "Opciones Desactivado"
+
+#: admin/class.options.engine.php:416
+msgid "<div class='option_default_statement'>WP menus need to be created to use this option!<br/> Edit <a href='%s'>WordPress Menus</a></div>"
+msgstr "<div class='option_default_statement'> WP menús se deben crear para utilizar esta opción! <br/> Editar <a href='%s'>los menús WordPress</a> </div>"
+
+#: admin/class.options.engine.php:657
+msgid "Are you sure?"
+msgstr "¿Está seguro?"
+
+#: admin/class.options.engine.php:695
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: admin/class.options.engine.php:959
+msgid "No sets have been created and added to this post-type yet!"
+msgstr "No hay conjuntos se han creado y añadido a este mensaje de tipo todavía!"
+
+#: admin/class.options.engine.php:1048
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: admin/class.options.engine.php:1052
+msgid "Set Background Image Repeat"
+msgstr "Seleccione Repetir imagen de fondo"
+
+#: admin/class.options.engine.php:1055
+msgid "Do Not Repeat"
+msgstr "No se debe repetir"
+
+#: admin/class.options.engine.php:1056
+msgid "Tile"
+msgstr "Azulejo"
+
+#: admin/class.options.engine.php:1057
+msgid "Repeat Horizontally"
+msgstr "Repetir horizontalmente"
+
+#: admin/class.options.engine.php:1058
+msgid "Repeat Vertically"
+msgstr "Repita vertical"
+
+#: admin/class.options.engine.php:1062
+msgid "Vertical Position In Percent"
+msgstr "Posición vertical en porcentaje"
+
+#: admin/class.options.engine.php:1063 admin/class.options.engine.php:1069
+msgid "count_select"
+msgstr "count_select"
+
+#: admin/class.options.engine.php:1068
+msgid "Horizontal Position In Percent"
+msgstr "Posición horizontal en porcentaje"
+
+#: admin/class.options.engine.php:1074
+msgid "Set Background Attachment"
+msgstr "Establecer Adjunto de fondo"
+
+#: admin/class.options.engine.php:1077
+msgid "Scroll"
+msgstr "Desplazamiento"
+
+#: admin/class.options.engine.php:1078
+msgid "Fixed"
+msgstr "Fijo"
+
+#: admin/class.options.engine.php:1105
+msgid "Successfully logged in as &quot;%s&quot; to PageLines%s."
+msgstr "Podido iniciar la sesión como &quot;% s&quot; para% s. PageLines"
+
+#: admin/class.options.engine.php:1107
+msgid "Could not connect to PageLines as user &quot;%s&quot;."
+msgstr "No se pudo conectar a PageLines como el usuario &quot;% s&quot;."
+
+#: admin/class.options.engine.php:1110
+msgid "ERROR: %1$s<br />There was a problem logging in to PageLines."
+msgstr "ERROR:% 1 $ s <br /> Hubo un problema al iniciar sesión en PageLines."
+
+#: admin/class.options.engine.php:1113
+msgid "<br />Developer edition enabled."
+msgstr "<br /> Developer Edition habilitado."
+
+#: admin/class.options.engine.php:1116
+msgid "Please set your PageLines login credentials.<br />No account yet? <a href='https://www.pagelines.com/launchpad/login.php'>Get one now</a>."
+msgstr "Por favor, configure sus credenciales de acceso PageLines. <br /> No tiene cuenta todavía? <a href='https://www.pagelines.com/launchpad/login.php'>Obtenga una ahora</a> ."
+
+#: admin/class.options.engine.php:1123
+msgid "Updates are disabled for non Network Admins</div>"
+msgstr "Las actualizaciones están deshabilitadas para no administradores de red </div>"
+
+#: admin/class.options.engine.php:1149
+msgid "Reset Account Credentials &rarr;"
+msgstr "Restablecer credenciales de cuenta →"
+
+#: admin/class.options.engine.php:1152
+msgid "PageLines Username"
+msgstr "PageLines Nombre de usuario"
+
+#: admin/class.options.engine.php:1154
+msgid "PageLines Password"
+msgstr "PageLines Contraseña"
+
+#: admin/class.options.engine.php:1157
+msgid "Submit Credentials"
+msgstr "Envía las credenciales"
+
+#: admin/class.options.engine.php:1182
+msgid "Export Settings File &darr;"
+msgstr "Exportar archivo de configuración ↓"
+
+#: admin/class.options.engine.php:1198
+msgid "Import Template Setup"
+msgstr "Importación de configuración de plantillas"
+
+#: admin/class.options.engine.php:1201
+msgid "Import Primary Settings"
+msgstr "Importar la configuración de Primaria"
+
+#: admin/class.options.engine.php:1205
+msgid "Import Special Meta Settings"
+msgstr "Meta Ajustes Especiales de Importación"
+
+#: admin/class.options.engine.php:1208
+msgid "Import Layout Configuration"
+msgstr "Importación de configuración de diseño"
+
+#: admin/class.options.engine.php:1212
+msgid "Import Settings To Install &uarr;"
+msgstr "Importar configuración Para instalar ↑"
+
+#: admin/class.options.engine.php:1213
+msgid "Are you sure? This will overwrite your current settings and configurations with the information in this file!"
+msgstr "¿Está seguro? Esto sobrescribirá la configuración actual y las configuraciones de la información en este archivo!"
+
+#: admin/class.extend.sections.php:12
+msgid "A PageLines child theme is not currently activated"
+msgstr "Un tema PageLines niño no está activada actualmente"
+
+#: admin/actions.admin.php:42
+msgid "<div class='config-error'><h2>PHP Version Problem</h2>Looks like you are using PHP version: <strong>%s</strong>. To run this framework you will need PHP <strong>5.0</strong> or better...<br/><br/> Don't worry though! Just check with your host about a quick upgrade.</div>"
+msgstr "<div class='config-error'><h2> Problema PHP Version </h2> Parece que está utilizando la versión <strong>PHP:% s.</strong> Para ejecutar este marco tendrá que PHP <strong>5.0</strong> o superior ... <br/><br/> Pero no te preocupes! Sólo tienes que comprobar con su anfitrión acerca de una actualización rápida. </div>"
+
+#: admin/actions.admin.php:103
+msgid "Unsupported file type!"
+msgstr "Tipo de archivo no admitido!"
+
+#: admin/actions.admin.php:106
+msgid "Upload Error: %s"
+msgstr "Subir Error:% s"
+
+#: admin/class.ui.templates.php:106
+msgid "1. Select Template Area"
+msgstr "1. Seleccione área de la plantilla"
+
+#: admin/class.ui.templates.php:171
+msgid "For Which Type of Page?"
+msgstr "¿Para qué tipo de página?"
+
+#: admin/class.ui.templates.php:173
+msgid "Which Content Area Type?"
+msgstr "¿Qué tipo de contenido de área?"
+
+#: admin/class.ui.templates.php:443
+msgid "Clone"
+msgstr "Clon"
+
+#: admin/class.ui.templates.php:458
+msgid "Hide This By Default"
+msgstr "Ocultar esto por defecto"
+
+#: admin/class.ui.templates.php:466
+msgid "No settings in this template area."
+msgstr "No hay ningún ajuste en esta área de la plantilla."
+
+#: admin/class.ui.templates.php:526
+msgid "Basic Template"
+msgstr "Plantilla básica"
+
+#: admin/class.ui.templates.php:531
+msgid "Header"
+msgstr "Encabezamiento"
+
+#: admin/class.ui.templates.php:538
+msgid "Template"
+msgstr "Plantilla"
+
+#: admin/class.ui.templates.php:541
+msgid "Integration"
+msgstr "Integración"
+
+#: admin/class.ui.templates.php:549
+msgid "Morefoot"
+msgstr "Morefoot"
+
+#: admin/class.ui.templates.php:555
+msgid "Footer"
+msgstr "Pie de página"
+
+#: admin/class.ui.templates.php:564
+msgid "Content Area"
+msgstr "Área de contenido"
+
+#: admin/class.ui.templates.php:569
+msgid "Content"
+msgstr "Contenido"
+
+#: admin/class.ui.templates.php:575
+msgid "Wrap"
+msgstr "Envolver"
+
+#: admin/class.ui.templates.php:607
+msgid "Area is empty."
+msgstr "Zona está vacía."
+
+#: admin/class.ui.templates.php:687
+msgid "Drag &amp; Drop Template Setup"
+msgstr "Drag &amp; Drop de configuración de plantillas"
+
+#: admin/class.ui.templates.php:688
+msgid "Use draggable sections to control the design of your site's templates."
+msgstr "Use las secciones que pueden arrastrarse para controlar el diseño de plantillas de su sitio."
+
+#: admin/actions.options.php:32
+msgid "PageLines Settings"
+msgstr "directrices página Configuración"
+
+#: admin/actions.options.php:59
+msgid "Template Setup"
+msgstr "Configuración de plantilla"
+
+#: admin/actions.options.php:81
+msgid "The PageLines Store"
+msgstr "La tienda de PageLines"
+
+#: admin/actions.options.php:99
+msgid "Your PageLines Account"
+msgstr "Tu Cuenta PageLines"
+
+#: admin/actions.options.php:117
+msgid "Special Pages"
+msgstr "Páginas especiales"
+
+#: admin/actions.options.php:285
+msgid "%s Settings Saved. &nbsp;<a class='sh_preview' href='%s/' target='_blank'>View Your Site &rarr;</a>"
+msgstr "Configuración% s Guardado. <a class='sh_preview' href='%s/' target='_blank'>Ver su sitio →</a>"
+
+#: admin/actions.options.php:289
+msgid "Congratulations! %s Has Been Successfully Activated."
+msgstr "¡Felicitaciones! % S se ha activado correctamente."
+
+#: admin/actions.options.php:294
+msgid "Congratulations! New settings have been successfully imported."
+msgstr "¡Felicitaciones! Los nuevos ajustes se han importado correctamente."
+
+#: admin/actions.options.php:299
+msgid "There was an error with import. Please make sure you are using the correct file."
+msgstr "Hubo un error con la importación. Por favor, asegúrese de que está utilizando el archivo correcto."
+
+#: admin/actions.options.php:307
+msgid "Template Configuration Restored To Default."
+msgstr "Configuración de plantilla restaurado a valores por defecto."
+
+#: admin/actions.options.php:310
+msgid "Layout Dimensions Restored To Default."
+msgstr "Dimensiones diseño restaurado a valores por defecto."
+
+#: admin/actions.options.php:313
+msgid "Settings Restored To Default."
+msgstr "Configuración restaurado a valores por defecto."
+
+#: admin/actions.options.php:317
+msgid "Launchpad settings saved."
+msgstr "Configuración de plataforma de lanzamiento salvo."
+
+#: admin/actions.options.php:320
+msgid "Successfully uploaded your %s"
+msgstr "Cargado con éxito su% s"
+
+#: admin/actions.options.php:326
+msgid "Section was deleted."
+msgstr "La sección se ha eliminado."
+
+#: admin/actions.options.php:330
+msgid "Section was installed."
+msgstr "La sección se ha instalado."
+
+#: admin/actions.options.php:334
+msgid "Section was upgraded."
+msgstr "La sección se ha actualizado."
+
+#: admin/actions.options.php:338
+msgid "Plugin was installed."
+msgstr "Plugin se ha instalado."
+
+#: admin/actions.options.php:342
+msgid "Plugin was deleted."
+msgstr "Plugin se ha eliminado."
+
+#: admin/actions.options.php:346
+msgid "Plugin was upgraded."
+msgstr "Plugin se ha actualizado."
+
+#: admin/actions.options.php:350
+msgid "Theme installed."
+msgstr "Tema instalado."
+
+#: admin/actions.options.php:354
+msgid "Theme upgraded."
+msgstr "Tema actualizado."
+
+#: admin/actions.options.php:357
+msgid "Theme deleted."
+msgstr "Tema borrado."
+
+#: admin/actions.options.php:392
+msgid "You are using Internet Explorer version: %s"
+msgstr "Usted está utilizando Internet Explorer versión:% s"
+
+#: admin/actions.options.php:393
+msgid "Advanced options don't support Internet Explorer version 7 or lower. Please switch to a standards based browser that will allow you to easily configure your site (e.g. Firefox, Chrome, Safari, even IE8 or better would work)."
+msgstr "Opciones avanzadas que no son compatibles con la versión de Internet Explorer 7 o menos. Por favor, cambiar a un navegador basado en estándares que le permitirá configurar fácilmente su sitio (por ejemplo, Firefox, Chrome, Safari, IE8 o mejor incluso que el trabajo)."
+
+#: admin/actions.options.php:398
+msgid "You are using PHP version %s"
+msgstr "Está utilizando la versión de PHP% s"
+
+#: admin/actions.options.php:399
+msgid "Version 5 or higher is required for this theme to work correctly. Please check with your host about upgrading to a newer version."
+msgstr "La versión 5 o superior se requiere para este tema para que funcione correctamente. Por favor, consulte con su anfitrión acerca de la actualización a una versión más reciente."
+
+#: admin/actions.options.php:402
+msgid "Extension problem found"
+msgstr "Extensión del problema encontrado"
+
+#: admin/actions.options.php:407
+msgid "No file selected!"
+msgstr "No existe el fichero seleccionado!"
+
+#: admin/actions.options.php:411
+msgid "The file did not appear to be a PageLines section."
+msgstr "El archivo no parece ser una sección PageLines."
+
+#: admin/actions.options.php:415
+msgid "Unknown error: %s"
+msgstr "Error desconocido:% s"
+
+#: admin/class.ui.typography.php:51
+msgid "Preview"
+msgstr "Vista previa"
+
+#: admin/class.ui.typography.php:131
+msgid "Additional Selectors"
+msgstr "Selectores adicionales"
+
+#: admin/class.ui.typography.php:141
+msgid "Letter Spacing"
+msgstr "Espacio entre letras"
+
+#: admin/class.profiles.php:93
+msgid "Save Profile Options"
+msgstr "Opciones para guardar perfil"
+
+#: admin/class.options.metapanel.php:151
+msgid "PageLines Meta Settings"
+msgstr "directrices página Configuración del Meta"
+
+#: admin/class.options.metapanel.php:263
+msgid "Save Meta Settings"
+msgstr "Guardar configuración Meta"
+
+#: admin/class.options.metapanel.php:337 admin/class.options.panel.php:145
+msgid "Inactive On Template"
+msgstr "Inactivo en la plantilla"
+
+#: admin/class.options.metapanel.php:571
+msgid "Page Setup"
+msgstr "Página de configuración"
+
+#: admin/class.options.metapanel.php:641
+msgid "Fullwidth layout"
+msgstr "De ancho completo de diseño"
+
+#: admin/class.options.metapanel.php:642
+msgid "One sidebar on right"
+msgstr "Una barra lateral a la derecha"
+
+#: admin/class.options.metapanel.php:643
+msgid "One sidebar on left"
+msgstr "Una barra lateral a la izquierda"
+
+#: admin/class.options.metapanel.php:644
+msgid "Two sidebars on right"
+msgstr "Dos barras laterales a la derecha"
+
+#: admin/class.options.metapanel.php:645
+msgid "Two sidebars on left"
+msgstr "Dos barras laterales a la izquierda"
+
+#: admin/class.options.metapanel.php:646
+msgid "Two sidebars, one on each side"
+msgstr "Dos barras laterales, uno a cada lado"
+
+#: admin/class.options.metapanel.php:648
+msgid "Individual Page Content Layout"
+msgstr "Página individuales Diseño de Contenido"
+
+#: admin/class.options.metapanel.php:649
+msgid "Select Page Layout"
+msgstr "Seleccione Diseño de página"
+
+#: admin/class.options.metapanel.php:651
+msgid "Select the layout that will be used on this page"
+msgstr "Seleccione el diseño que se utilizará en esta página"
+
+#: admin/class.options.metapanel.php:657
+msgid "Individual Page Section Control"
+msgstr "Página individuales de control de la sección"
+
+#: admin/class.options.metapanel.php:659
+msgid "Control which sections appear on this specific page"
+msgstr "Control de las secciones que aparecen en esta página específica"
+
+#: admin/class.options.ui.php:90 admin/class.options.ui.php:142
+msgid "Save Options"
+msgstr "Opciones para guardar"
+
+#: admin/class.options.ui.php:111
+msgid "Restore To Default"
+msgstr "Restaurar a valores por defecto"
+
+#: admin/class.options.ui.php:113 admin/class.options.ui.php:188
+msgid "Are you sure? This will restore these settings to default."
+msgstr "¿Está seguro? Esto restaurará la configuración por defecto."
+
+#: admin/class.options.ui.php:148
+msgid "Refresh Store"
+msgstr "Actualizar tienda"
+
+#: admin/class.options.ui.php:186
+msgid "Restore %s To Default"
+msgstr "Restaurar% s a valores por defecto"
+
+#: admin/class.welcome.php:22
+msgid "That's it for now! Have fun and good luck."
+msgstr "Eso es todo por ahora! Tener diversión y buena suerte."
+
+#: admin/class.welcome.php:72
+msgid "Congratulations!"
+msgstr "¡Felicitaciones!"
+
+#: admin/class.welcome.php:73
+msgid "<div class='admin_billboard_text'>Welcome to your PageLines site.<br/> Here are a few tips to get you started...<br/><small>(Note: This intro can be removed below.)</small></div>"
+msgstr "<div class='admin_billboard_text'> Bienvenido a su sitio PageLines. <br/> Aquí están algunos consejos para ayudarle a empezar ... <br/> <small>(Nota: Esta introducción puede ser eliminado a continuación.)</small> </div>"
+
+#: admin/class.welcome.php:82
+msgid "The First Rule"
+msgstr "La primera regla"
+
+#: admin/class.welcome.php:83
+msgid "It's time we introduce you to the first rule.  The first rule of PageLines is that you come first. We truly appreciate your business and support."
+msgstr "Es hora de presentar a la primera regla. La primera regla de PageLines es que lo primero. Nosotros realmente apreciamos su negocio y apoyo."
+
+#: admin/class.welcome.php:88
+msgid "World Class Support"
+msgstr "Apoyo de Clase Mundial"
+
+#: admin/class.welcome.php:89
+msgid "For help getting started, we offer our customers tons of support including comprehensive <a href='http://www.pagelines.com/wiki/' target='_blank'>docs</a>, and an active, moderated <a href='http://www.pagelines.com/forum/' target='_blank'>forum</a>."
+msgstr "Necesita ayuda para empezar, ofrecemos a nuestros clientes de toneladas de apoyo integral incluyendo <a href='http://www.pagelines.com/wiki/' target='_blank'>documentos</a> , y una activa, moderada <a href='http://www.pagelines.com/forum/' target='_blank'>foro</a> ."
+
+#: admin/class.welcome.php:94
+msgid "Drag &amp; Drop Templates"
+msgstr "Drag &amp; Drop plantillas"
+
+#: admin/class.welcome.php:95
+msgid "Check out the Template Setup panel! This is how you will control site elements using drag &amp; drop on your site. Learn more in the <a href='http://www.pagelines.com/wiki/'>docs</a>."
+msgstr "Echa un vistazo a la plantilla del panel de configuración! Así es como se va a controlar los elementos del sitio usando arrastrar y soltar en su sitio. Más información en la <a href='http://www.pagelines.com/wiki/'>documentación</a> ."
+
+#: admin/class.welcome.php:100
+msgid "Your Settings"
+msgstr "De los ajustes"
+
+#: admin/class.welcome.php:101
+msgid "This panel is where you will start the customization of your website. Any options applied through this interface will make changes site-wide.<br/> "
+msgstr "Este panel es donde comenzará la personalización de su sitio web. Cualquiera de las opciones aplicadas a través de esta interfaz se hacen cambios en todo el sitio. <br/>"
+
+#: admin/class.welcome.php:106
+msgid "Draggable Layout &amp; Widgets"
+msgstr "Arrastrable Diseño y Componentes"
+
+#: admin/class.welcome.php:107
+msgid "Use the Layout Editor to control your content layout. There are also several <strong>widgetized</strong> areas that are controlled through your widgets panel."
+msgstr "Utilice el Editor de diseño para el control de la distribución del contenido. Hay también varias áreas <strong>Widgetized</strong> que son controlados a través de su panel de widgets."
+
+#: admin/class.welcome.php:112
+msgid "MetaPanel"
+msgstr "MetaPanel"
+
+#: admin/class.welcome.php:113
+msgid "You'll find the MetaPanel at the bottom of WordPress page/post creation pages.  It will allow you to set options specific to that page or post."
+msgstr "Usted encontrará la MetaPanel en la parte inferior de las páginas de WordPress creación de la página / post. Que le permitirá configurar las opciones específicas a esa página o mensaje."
+
+#: admin/class.welcome.php:171
+msgid " Supported Extensions"
+msgstr "Extensiones compatibles"
+
+#: admin/class.welcome.php:176
+msgid "<p>Although %s is universally plugin compatible, we have added <strong>advanced</strong> graphical/functional support for several WordPress plugins.</p><p> It's your responsibility to install each plugin, which can be done through <strong>Plugins</strong> &gt; <strong>Add New</strong> or through the <strong>developer's site</strong> where you can download them manually (e.g. CForms).</p>"
+msgstr "<p> A pesar de% s no es universalmente compatible plug-in, hemos añadido soporte gráfico <strong>avanzado</strong> / funcional para varios plugins de WordPress. </p><p> Es su responsabilidad de instalar cada plugin, que se puede hacer a través de <strong>Plugins&gt; Agregar nuevo</strong> o en el <strong>sitio del desarrollador</strong> donde se pueden descargar manualmente (por ejemplo, CForms). </p>"
+
+#: admin/class.welcome.php:183
+msgid "Core Support"
+msgstr "Núcleo de Apoyo"
+
+#: admin/class.welcome.php:245
+msgid "Post Types Order"
+msgstr "Tipos de mensaje de pedido"
+
+#: admin/class.welcome.php:247
+msgid "Allows you to re-order custom post types like features and boxes."
+msgstr "Le permite volver a ordenar los tipos de envío personalizado como las características y las cajas."
+
+#: admin/class.welcome.php:250
+msgid "Disqus Comments"
+msgstr "Comentarios Disqus"
+
+#: admin/class.welcome.php:252
+msgid "Improve your commenting system."
+msgstr "Mejorar su sistema de comentarios."
+
+#: admin/class.welcome.php:255
+msgid "CForms"
+msgstr "CForms"
+
+#: admin/class.welcome.php:257
+msgid "Advanced contact forms that can be used for creating mailing lists, etc."
+msgstr "Las formas avanzadas de contacto que pueden ser utilizados para la creación de listas de correo, etc"
+
+#: admin/class.welcome.php:260
+msgid "WP125"
+msgstr "WP125"
+
+#: admin/class.welcome.php:262
+msgid "Used to show 125px by 125px ads or images in your sidebar(Widget)."
+msgstr "Se utiliza para mostrar 125px por 125px anuncios o imágenes en la barra lateral (widgets)."
+
+#: admin/class.welcome.php:265
+msgid "FlickrRSS Images"
+msgstr "FlickrRSS Imágenes"
+
+#: admin/class.welcome.php:267
+msgid "Shows pictures from your Flickr Account (Widget &amp; Carousel Section)."
+msgstr "Muestra imágenes de su cuenta de Flickr (Sección Widget y Carrusel)."
+
+#: admin/class.welcome.php:270
+msgid "NextGen-Gallery"
+msgstr "NextGen-Galería"
+
+#: admin/class.welcome.php:272
+msgid "Allows you to create image galleries with special effects (Carousel Section)."
+msgstr "Te permite crear galerías de imágenes con efectos especiales (Sección Carrusel)."
+
+#: admin/class.welcome.php:275
+msgid "Wp-PageNavi"
+msgstr "Wp-PageNavi"
+
+#: admin/class.welcome.php:277
+msgid "Creates advanced <strong>paginated</strong> post navigation."
+msgstr "Crea avanzadas de navegación <strong>paginada</strong> mensaje."
+
+#: admin/library.help.php:29
+msgid "PageLines Store"
+msgstr "páginas grandes directrices"
+
+#: admin/library.help.php:30
+msgid "Integrations"
+msgstr "Integraciones"
+
+#: admin/library.help.php:37
+msgid "About Special Pages"
+msgstr "Acerca de Páginas especiales"
+
+#: admin/library.help.php:38
+msgid "Blog Page"
+msgstr "Blog"
+
+#: admin/library.help.php:39
+msgid "Archive Page"
+msgstr "Archivo de"
+
+#: admin/library.help.php:40
+msgid "Category Page"
+msgstr "Categoría Página"
+
+#: admin/library.help.php:42
+msgid "Tag Listing"
+msgstr "Listado de etiqueta"
+
+#: admin/library.help.php:43
+msgid "Author Posts"
+msgstr "Mensajes autor"
+
+#: admin/library.help.php:44
+msgid "404 Page"
+msgstr "Página 404"
+
+#: admin/library.help.php:56
+msgid "Welcome"
+msgstr "Bienvenida"
+
+#: admin/library.help.php:57
+msgid "Website Setup"
+msgstr "Configuración de página web"
+
+#: admin/library.help.php:58
+msgid "Layout Editor"
+msgstr "Layout Editor"
+
+#: admin/library.help.php:59
+msgid "Color Control"
+msgstr "Control de color"
+
+#: admin/library.help.php:60
+msgid "Typography"
+msgstr "Tipografía"
+
+#: admin/library.help.php:61
+msgid "Header and Footer"
+msgstr "Encabezado y pie de página"
+
+#: admin/library.help.php:62
+msgid "Blog and Posts"
+msgstr "Blog y Mensajes"
+
+#: admin/library.help.php:63
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: admin/library.help.php:64
+msgid "Custom Code"
+msgstr "Código Aduanero"
+
+#: admin/library.help.php:70
+msgid "Your Account"
+msgstr "Su cuenta"
+
+#: admin/library.help.php:71
+msgid "Import-Export"
+msgstr "Import-Export"
+
+#: admin/library.help.php:89
+msgid "For more information:"
+msgstr "Para más información:"
+
+#: admin/library.help.php:90
+msgid "Documentation"
+msgstr "Documentación"
+
+#: admin/library.help.php:91
+msgid "Support Forums"
+msgstr "Foros de soporte"
+
+#: admin/library.help.php:100
+msgid "<p>Welcome to the PageLines Help Section! Here you can find a brief overview of each tab, as well as a link to a more detailed help doc.</p>"
+msgstr "<p> Bienvenido a la sección de Ayuda PageLines! Aquí usted puede encontrar una breve descripción de cada ficha, así como un enlace a un documento una ayuda más detallada. </p>"
+
+#: admin/library.help.php:102
+msgid "<p>Website Setup is generally the first thing people configure when they activate PageLines.<br />These are the options that get your logo, brand name, and other custom elements up on your site.<br />For more information, click on <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Website_Setup_Settings' target='_blank'>How to Use the Website Setup Settings</a></p>"
+msgstr "<p> Configuración de página web por lo general la gente lo primero que configurar al activar PageLines. <br /> Estas son las opciones que obtener su logotipo, marca, y otros elementos personalizados en su sitio. <br /> Para más información, haga clic en <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Website_Setup_Settings' target='_blank'>Cómo utilizar la página de configuración Web</a> </p>"
+
+#: admin/library.help.php:104
+msgid "<p>The Layout Editor is what changes the layout of your site. You can change the dimensions of your content, the number & location of your sidebar(s), etc... <br />For more information, click on <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Layout_Editor_Settings' target='_blank'>How to Use the Layout Editor Settings</a></p>"
+msgstr "<p> El editor de diseño es lo que cambia el diseño de su sitio. Usted puede cambiar las dimensiones de su contenido, el número y la ubicación de la barra lateral (s), etc .. <br /> Para más información, haga clic en <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Layout_Editor_Settings' target='_blank'>Cómo utilizar la configuración del editor de diseño</a> </p>"
+
+#: admin/library.help.php:106
+msgid "<p>Color Control lets you choose the main colors that will be displayed on your website. It will then decide the best colors for your site's secondary and tertiary elements. You can always edit these manually by using CSS but Color Control chooses the best complementary colors to your site design. <br /><br />For more information, click on <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Color_Control_Settings' target='_blank'>How to Use the Color Control Settings</a></p>"
+msgstr "<p> Control de color le permite elegir los colores principales que se mostrarán en su sitio web. A continuación, decidir los mejores colores para los elementos secundarios y terciarios de su sitio. Siempre se puede editar de forma manual mediante el uso de CSS, pero de control de color escoge los mejores colores complementarios para el diseño de su sitio. <br /><br /> Para más información, haga clic en <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Color_Control_Settings' target='_blank'>Cómo utilizar la configuración de control de color</a> </p>"
+
+#: admin/library.help.php:108
+msgid "<p>Typography allows you to change the fonts that appear on your website. No need for html or css to make changes to the most common place that you might want to change your fonts. <br /><br />For more information, click on <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Typography_Settings' target='_blank'>How to Use the Typography Settings</a></p>"
+msgstr "<p> Tipografía le permite cambiar las fuentes que aparecen en su sitio web. No hay necesidad de html o css para realizar cambios en el lugar más común de que es posible que desee cambiar sus fuentes. <br /><br /> Para más información, haga clic en <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Typography_Settings' target='_blank'>Cómo utilizar la configuración de la tipografía</a> </p>"
+
+#: admin/library.help.php:110
+msgid "<p>The Header & Footer  settings provide flexibility and ease in setting up important site content such as Dropdown Navigation, Search capability, Social links, and Copyright statements.<br /><br />For more information, click on <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Header_and_Footer_Settings' target='_blank'>How to Use the Header and Footer Settings</a></p>"
+msgstr "<p> El encabezado y pie de página proporcionan flexibilidad y facilidad en la creación de contenido del sitio importante como el de navegación desplegable, capacidad de búsqueda, vínculos sociales, y derechos de autor. <br /><br /> Para más información, haga clic en <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Header_and_Footer_Settings' target='_blank'>Cómo utilizar el encabezado y pie de página</a> </p>"
+
+#: admin/library.help.php:112
+msgid "<p>The Blog And Posts settings is where you can set up the general structure and appearance of your blog post content.<br /><br />For more information, click on <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Blog_and_Posts_Settings' target='_blank'>How to Use the Blog and Posts Settings</a></p>"
+msgstr "<p> El blog y la configuración de los mensajes es donde se puede establecer la estructura y el aspecto general de su contenido de blog. <br /><br /> Para más información, haga clic en <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Blog_and_Posts_Settings' target='_blank'>Cómo utilizar el blog y Configuración Mensajes</a> </p>"
+
+#: admin/library.help.php:114
+msgid "<p>The Advanced settings contain some additional options that can be useful to solve some specific issues when developing your site. These include notorious browser compatibility issues with JS, server issues with Ajax and some useful other options for helping troubleshoot your site or connect with the affiliate program. <br /><br />For more information, click on <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Advanced_Settings' target='_blank'>How to Use the Advanced Settings</a></p>"
+msgstr "<p> La configuración avanzada contiene algunas opciones adicionales que pueden ser útiles para resolver algunos problemas específicos en el desarrollo de su sitio. Estos son notorios los problemas de compatibilidad del navegador con JS, problemas en el servidor con el Ajax y algunas opciones útiles para ayudar a solucionar los problemas de un sitio o en conexión con el programa de afiliados. <br /><br /> Para más información, haga clic en <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Advanced_Settings' target='_blank'>Cómo utilizar la configuración avanzada</a> </p>"
+
+#: admin/library.help.php:116
+msgid "<p>The Custom Code setting is where you can insert your Custom CSS styling. If you have any Header, Footer, or Google Analytics script, all of that goes here as well. <br /><br />For more information, click on <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Custom_Code_Settings' target='_blank'>How to Use the Custom Code Settings</a></p>"
+msgstr "<p> El ajuste de código personalizado es donde usted puede insertar su estilo CSS personalizado. Si usted tiene alguna de cabecera, pie de página, o Google Analytics guión, todo eso va aquí. <br /><br /> Para más información, haga clic en <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Custom_Code_Settings' target='_blank'>Cómo utilizar la configuración de código personalizado</a> </p>"
+
+#: admin/library.help.php:118
+msgid "<p>The Template Setup is one of PageLine's most powerful features. Using drag and drop technology, you can easily place your sections wherever you want on your site. <br /><br />For more information, click on <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Template_Setup' target='_blank'>How to Use the Template Setup</a></p>"
+msgstr "<p> La configuración de la plantilla es una de las características más potentes de PageLine. La función de arrastrar y soltar tecnología, usted puede colocar fácilmente sus secciones siempre que lo desee en su sitio. <br /><br /> Para más información, haga clic en <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_Template_Setup' target='_blank'>Cómo utilizar la configuración de plantillas</a> </p>"
+
+#: admin/library.help.php:120
+msgid "<p>The PageLines Store is your one stop online market place for everything you need to truely customize your website. Built by fellow members of the PageLines community, the Store offers the following types of components:<ul><li><strong>Sections -</strong> Drag and Drop pieces of web design that you can control on page templates</li><li><strong>Themes -</strong> The overall appearance and structure of the site; its visual presentation.</li><li><strong>Plugins -</strong> Extend the functionality of your website.</li></ul>For more information, click on <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_PageLines_Store' target='_blank'>How to Use the PageLines Store</a><br /><br />Interested in developing your own Sections/Themes/Plugins for the PageLines Store? Click on <a href='http://www.pagelines.com/wiki/index.php?title=Getting_Started_as_a_Developer' target='_blank'>Getting Started as a Developer</a> for more information.</p>"
+msgstr "<p> La tienda de PageLines es su lugar de una parada del mercado en línea para todo lo que necesita para personalizar su sitio web. Construido por los demás miembros de la comunidad PageLines, la tienda ofrece los siguientes tipos de componentes: <ul><li> <strong>Secciones -</strong> Arrastrar y soltar piezas de diseño web que se puede controlar en las plantillas de página </li><li> <strong>Temas -</strong> El aspecto general y la estructura del sitio, y su presentación visual. </li><li> <strong>Plugins -</strong> Extienda la funcionalidad de su sitio web. </li></ul> Para más información, haga clic en <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_the_PageLines_Store' target='_blank'>Cómo utilizar la tienda PageLines</a> <br /><br /> Interesados ​​en desarrollar sus propias secciones / Temas / Plugins para el almacén de PageLines? Haga clic en <a href='http://www.pagelines.com/wiki/index.php?title=Getting_Started_as_a_Developer' target='_blank'>Cómo empezar como desarrollador</a> para obtener más información. </p>"
+
+#: admin/library.help.php:123
+msgid "<p>If you purchased the PageLines Developer Edition, you have access to PageLines Integrations. <br />This allows you to use non-WordPress software on your website such as <strong>Vanilla</strong> forums & <strong>MediaWiki</strong> help docs, and complety integrate it with your PageLines site. <br /><br />For more information, click on <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_Integrations' target='_blank'>How to Use Integrations</a></p>"
+msgstr "<p> Si ha adquirido la edición PageLines Developer, tiene acceso a las integraciones PageLines. <br /> Esto le permite utilizar no WordPress software en su sitio web tales como foros <strong>de vainilla</strong> y <strong>MediaWiki</strong> documentos de ayuda, y complety integrarla con su sitio PageLines. <br /><br /> Para más información, haga clic en <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_Integrations' target='_blank'>Cómo utilizar las integraciones</a> </p>"
+
+#: admin/library.help.php:125
+msgid "<p>To be able to receive PageLines updates and purchase & download items from the Store, you must setup your account credentials.</p>"
+msgstr "<p> Para poder recibir las actualizaciones PageLines y comprar y descargar artículos de la tienda, debe configurar los datos de su cuenta. </p>"
+
+#: admin/library.help.php:127
+msgid "<p>You can easily transfer your PageLines 2.0 settings to another PageLines 2.0 site by using the Import-Export feature. Remember that this will only transfer your <em>PageLines</em> Settings. <br /><br />If you want to transfer your posts, pages, comments, custom fields, categories, and tags, you must use the WordPress Import-Export feature. This is located under 'Tools' inside your WordPress Administration Menu.<br /><br />For more information, click on <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Migrate_PageLines_from_Another_Site' target='_blank'>How to Migrate PageLines from Another Site</a></p>"
+msgstr "<p> Usted puede transferir fácilmente sus PageLines 2,0 ajustes a otro sitio PageLines 2.0 mediante la característica de Importación y Exportación. Recuerde que esto sólo transferir los ajustes <em>PageLines.</em> <br /><br /> Si desea transferir tus mensajes, páginas, comentarios, campos personalizados, categorías y etiquetas, se debe utilizar el WordPress de Importación y Exportación de características. Esta se encuentra en &quot;Herramientas&quot; dentro de su menú de administración de WordPress. <br /><br /> Para más información, haga clic en <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Migrate_PageLines_from_Another_Site' target='_blank'>Cómo migrar PageLines de otro sitio</a> </p>"
+
+#: admin/library.help.php:129
+msgid "<p>Special Pages refer to the WordPress pages which dynamically display data from your site. For example, your Blog is a Special Page, because it takes all of your individually entered posts and displays them on one page. <br /><br />Each type of Special Page has the same settings. Click on each tab to find out more on each page type.<br /><br />For more information, click on <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_Special_Pages' target='_blank'>How to Use the Special Pages</a></p>"
+msgstr "<p> Páginas especiales se refieren a las páginas de WordPress de forma dinámica que muestran los datos de su sitio. Por ejemplo, su blog es una página especial, ya que tiene todas sus entradas de forma individual entró y los muestra en una página. <br /><br /> Cada tipo de página especial con la misma configuración. Haga clic en cada ficha para obtener más información sobre cada tipo de página. <br /><br /> Para más información, haga clic en <a href='http://www.pagelines.com/wiki/index.php?title=How_to_Use_Special_Pages' target='_blank'>Cómo utilizar las páginas especiales</a> </p>"
+
+#: admin/library.help.php:131
+msgid "<p>This page contains of all the blog posts on your site.</p>"
+msgstr "<p> Esta página contiene todas las entradas del blog en su sitio. </p>"
+
+#: admin/library.help.php:132
+msgid "<p>This page displays all blog posts created in a particular month. Users can select the month via the Archives Widget in the Sidebar.</</p>"
+msgstr "<p> Esta página muestra todas las publicaciones en el blog creado en un mes en particular. Los usuarios pueden seleccionar el mes a través del Widget Archivo en la barra lateral. </</p>"
+
+#: admin/library.help.php:133
+msgid "<p>If a blog post is assigned to a certain category, a user can click on that category and arrive at this page. It will contain all the other posts in that same category.</p>"
+msgstr "<p> Si una entrada de blog se asigna a una categoría determinada, el usuario puede hacer clic en esa categoría y llegar a esta página. Que contendrá todos los otros mensajes en la misma categoría. </p>"
+
+#: admin/library.help.php:134
+msgid "<p>When a user types in a search on your website, the Search Results page will appear containing the results.</p>"
+msgstr "<p> Cuando un usuario teclea una búsqueda en su sitio web, la página de resultados aparecerá con los resultados. </p>"
+
+#: admin/library.help.php:135
+msgid "<p>You can assign tag words to a post. If a user clicks on the tag word, he will arrive at this page containing other posts with the same tag.</p>"
+msgstr "<p> Se pueden asignar palabras de etiquetas para un puesto. Si un usuario hace clic en la palabra de la etiqueta, que se llega a esta página que contiene otros mensajes con la misma etiqueta. </p>"
+
+#: admin/library.help.php:136
+msgid "<p>This page will show all of the posts by a certain author. Clicking on the authors name will take the user there.</p>"
+msgstr "<p> En esta página se muestran todos los mensajes de un determinado autor. Al hacer clic en el nombre del autor lleva al usuario allí. </p>"
+
+#: admin/library.help.php:137
+msgid "<p>If a user tries to go to a page on your site that doesn't exist, he will arrive at this page.</p>"
+msgstr "<p> Si un usuario intenta acceder a una página de su sitio que no existe, que se llega a esta página. </p>"
+
+#: admin/library.help.php:140
+msgid "No help for this tab yet!"
+msgstr "No hay ayuda de esta ficha todavía!"
+
+#: admin/class.extend.php:82 admin/class.extend.php:174
+msgid "Install"
+msgstr "Instalar"
+
+#: admin/class.extend.ui.php:324
+msgid "Installing"
+msgstr "Instalación"
+
+#: admin/class.extend.php:93
+msgid "Install &darr;"
+msgstr "Instale ↓"
+
+#: admin/class.extend.php:105
+msgid "Login &rarr;"
+msgstr "Inicio de sesión →"
+
+#: admin/class.extend.php:106 admin/class.extend.php:112
+msgid "Redirecting"
+msgstr "Redirigir"
+
+#: admin/class.extend.php:124
+msgid "Activate"
+msgstr "Activar"
+
+#: admin/class.extend.php:125 admin/class.extend.ui.php:310
+msgid "Activating"
+msgstr "Activación"
+
+#: admin/class.extend.php:134
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: admin/class.extend.php:135
+msgid "Deactivating"
+msgstr "Desactivación"
+
+#: admin/class.extend.php:144
+msgid "Upgrade to %s"
+msgstr "Actualizar a% s"
+
+#: admin/class.extend.php:145
+msgid "Upgrading to version %s"
+msgstr "La actualización a la versión% s"
+
+#: admin/class.extend.php:153
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin/class.extend.php:154
+msgid "Deleting"
+msgstr "Borrar"
+
+#: admin/class.extend.php:160
+msgid "Installed"
+msgstr "Instalado"
+
+#: admin/class.extend.php:165
+msgid "theme"
+msgstr "tema"
+
+#: admin/class.extend.php:167
+msgid "%s is required"
+msgstr "% S se requiere"
+
+#: admin/class.extend.php:183
+msgid "Download <strong>&darr;</strong>"
+msgstr "Descargar <strong>↓</strong>"
+
+#: admin/class.extend.php:184
+msgid "Downloading"
+msgstr "Descargar"
+
+#: admin/class.extend.php:674
+msgid "Purchase"
+msgstr "Compra"
+
+#: admin/class.extend.php:745
+msgid "<h2>Unable to fetch from API</h2>"
+msgstr "<h2> No se pudieron obtener de la API </h2>"
+
+#: admin/class.options.panel.php:25
+msgid "Save"
+msgstr "Ahorrar"
+
+#: admin/class.options.panel.php:84
+msgid "View Page &rarr;"
+msgstr "Ver página →"
+
+#: admin/class.options.panel.php:84
+msgid "View Site &rarr;"
+msgstr "Visitas de nuestra pagina →"
+
+#: admin/class.extend.actions.php:336
+msgid "Downloaded"
+msgstr "Descargar"
+
+#: admin/class.extend.actions.php:349
+msgid "You need to have version %s of the framework for this %s"
+msgstr "Usted necesita tener la versión% s del marco de esta% s"
+
+#: admin/class.extend.actions.php:355
+msgid "You need to install %s first."
+msgstr "Es necesario instalar% s en primer lugar."
+
+#: admin/class.extend.actions.php:375
+msgid "Plugin Installed."
+msgstr "Plugin instalado."
+
+#: admin/class.extend.actions.php:389
+msgid "Plugin Deleted."
+msgstr "Plugin eliminados."
+
+#: admin/class.extend.actions.php:418
+msgid "Plugin Upgraded."
+msgstr "Plugin actualizado."
+
+#: admin/class.extend.actions.php:428
+msgid "Plugin Activated."
+msgstr "Plugin Activado."
+
+#: admin/class.extend.actions.php:437
+msgid "Plugin Deactivated."
+msgstr "Plugin Desactivado."
+
+#: admin/class.extend.actions.php:469
+msgid "Section Installed"
+msgstr "Sección Instalado"
+
+#: admin/class.extend.actions.php:493
+msgid "Section Deleted."
+msgstr "Sección eliminados."
+
+#: admin/class.extend.actions.php:529
+msgid "Section Upgraded"
+msgstr "Sección mejorada"
+
+#: admin/class.extend.actions.php:542
+msgid "Section Activated."
+msgstr "Sección activado."
+
+#: admin/class.extend.actions.php:553
+msgid "Section Deactivated."
+msgstr "Sección Desactivado."
+
+#: admin/class.extend.actions.php:572
+msgid "Theme Installed."
+msgstr "Tema instalado."
+
+#: admin/class.extend.actions.php:591
+msgid "Theme Deleted."
+msgstr "Tema eliminados."
+
+#: admin/class.extend.actions.php:623
+msgid "Theme Upgraded."
+msgstr "Tema actualizado."
+
+#: admin/class.extend.actions.php:633
+msgid "Theme Activated."
+msgstr "Tema activado."
+
+#: admin/class.extend.actions.php:643
+msgid "Theme Deactivated."
+msgstr "Tema Desactivado."
+
+#: admin/class.extend.actions.php:650
+msgid "Sorry only network admins can install %ss."
+msgstr "Lo sentimos administradores de red sólo se puede instalar ss%."
+
+#: admin/class.extend.actions.php:656
+msgid "Taking you to PayPal.com"
+msgstr "Que le llevará a PayPal.com"
+
+#: admin/class.extend.actions.php:663
+msgid "Moving to account setup.."
+msgstr "Pasar a la configuración de cuentas .."
+
+#: admin/class.extend.ui.php:74
+msgid "Installed %s will appear here."
+msgstr "S instalado% aparecerá aquí."
+
+#: admin/class.extend.ui.php:76
+msgid "Available %s %s will appear here."
+msgstr "S% s% disponibles aparecerán aquí."
+
+#: admin/class.extend.ui.php:142
+msgid "<h4>Active Theme</h4>"
+msgstr "<h4> Tema activo </h4>"
+
+#: admin/class.extend.ui.php:293
+msgid "Install Section"
+msgstr "Instale la sección"
+
+#: admin/class.extend.ui.php:309
+msgid "Sections plugin installed, now activate it!"
+msgstr "Secciones plugin instalado, ahora lo active!"
+
+#: admin/class.extend.ui.php:313
+msgid "Install It Now!"
+msgstr "Instalar Ahora!"
+
+#: admin/class.extend.ui.php:314
+msgid "You need to install and activate PageLines Sections Plugin"
+msgstr "Es necesario instalar y activar PageLines Plugin secciones"
+
+#: admin/class.extend.ui.php:358
+msgid "Sorry uploads do not work with this server config, please use FTP!"
+msgstr "Lo sentimos carga no funcionan con este servidor de configuración, utilice FTP!"
+
+#: admin/class.extend.ui.php:361
+msgid "Only network admins can upload sections!"
+msgstr "Sólo los administradores de red pueden subir las secciones!"
+
+#: admin/class.extend.ui.php:366
+msgid "Install a section in .zip format"
+msgstr "Instalación de una sección en formato zip."
+
+#: admin/class.extend.ui.php:367
+msgid "If you have a section in a .zip format, you may install it by uploading it here."
+msgstr "Si usted tiene una sección en formato. Zip, puede instalarlo mediante la subida de aquí."
+
+#: admin/class.extend.ui.php:370
+msgid "Section zip file"
+msgstr "Sección de archivo zip"
+
+#: admin/class.extend.ui.php:373
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#: admin/class.extend.ui.php:383
+msgid "Search functionality is currently disabled. Check back soon!"
+msgstr "La funcionalidad de búsqueda está actualmente deshabilitado. Vuelve pronto!"
+
+#: admin/class.extend.ui.php:486
+msgid "Sections Added Via Store"
+msgstr "Secciones Alta través de la tienda"
+
+#: admin/class.extend.ui.php:490
+msgid "Sections From PageLines Framework"
+msgstr "Secciones de PageLines Marco"
+
+#: admin/class.extend.ui.php:494
+msgid "Sections From Your Child Theme"
+msgstr "Secciones de su tema infantil"
+
+#: admin/class.extend.ui.php:507
+msgid "Installed PageLines Themes"
+msgstr "Instalado PageLines Temas"
+
+#: admin/class.extend.ui.php:518
+msgid "Installed PageLines Plugins"
+msgstr "Instalado PageLines Plugins"
+
+#: admin/class.extend.ui.php:531
+msgid "PageLines Integrations"
+msgstr "FrontPage líneas de Integración"
+
+#: admin/class.extend.ui.php:548
+msgid "Featured"
+msgstr "Destacados"
+
+#: admin/class.extend.ui.php:552
+msgid "Top Premium"
+msgstr "Top Premium"
+
+#: admin/class.extend.ui.php:556
+msgid "Top Free"
+msgstr "Superior gratuita"
+
+#: admin/class.extend.ui.php:566
+msgid "Add Themes"
+msgstr "Añadir temas"
+
+#: admin/class.extend.ui.php:573
+msgid "Add Sections"
+msgstr "Añadir secciones"
+
+#: admin/class.extend.ui.php:579
+msgid "Upload"
+msgstr "Subir"
+
+#: admin/class.extend.ui.php:585
+msgid "Add Plugins"
+msgstr "Agregar Plugins"
+
+#: admin/class.account.php:56
+msgid "Configure PageLines Account &amp; Auto Updates"
+msgstr "Configurar cuenta PageLines y Actualizaciones automáticas"
+
+#: admin/class.account.php:57
+msgid "Get your latest updates automatically, direct from PageLines."
+msgstr "¡Consiga sus últimas actualizaciones de forma automática, directamente desde PageLines."
+
+#: admin/class.account.php:67
+msgid "Import/Export PageLines Settings"
+msgstr "Importar / Exportar PageLines Configuración"
+
+#: admin/class.account.php:68
+msgid "Use this form to upload PageLines settings from another install."
+msgstr "Utilice este formulario para cargar la configuración PageLines de otra instalación."
+
+#: admin/library.extension.php:32
+msgid "Could not connect to download.<br/><a href='#'>Reload Page</a>"
+msgstr "No se pudo conectar a la descarga. <br/> <a href='#'>Actualizar página</a>"
+
+#: admin/library.extension.php:37
+msgid "Destination folder already exists %s"
+msgstr "Carpeta de destino ya existe% s"
+
+#: sections/carousel/section.php:134
+msgid "The <strong>plugin</strong> for the selected carousel mode needs to be activated (FlickrRSS or NextGen Gallery)."
+msgstr "El <strong>plug-in</strong> para el modo de carrusel seleccionado debe ser activado (o FlickrRSS Galería de NextGen)."
+
+#: sections/twitterbar/section.php:16
+msgid "Set your Twitter account name in your settings to use the TwitterBar Section."
+msgstr "Establecer el nombre de su cuenta de Twitter en la configuración para utilizar la sección de TwitterBar."
+
+#: sections/sharebar/section.php:32
+msgid "Share on Reddit"
+msgstr "Compartir en Reddit"
+
+#: sections/sharebar/section.php:37
+msgid "Share on Facebook"
+msgstr "Compartir en Facebook"
+
+#: sections/sharebar/section.php:42
+msgid "Share on Twitter"
+msgstr "Compartir en Twitter"
+
+#: sections/sharebar/section.php:47
+msgid "Share on Delicious"
+msgstr "Compartir en Delicious"
+
+#: sections/sharebar/section.php:52
+msgid "Share on StumbleUpon"
+msgstr "Compartir en StumbleUpon"
+
+#: sections/sharebar/section.php:57
+msgid "Share on Digg"
+msgstr "Compartir en Digg"
+
+#: sections/simple_nav/section.php:14
+msgid "Simple Nav Section"
+msgstr "Nav Sección simples"
+
+#: sections/callout/section.php:90
+msgid "Set Callout meta fields to activate."
+msgstr "Establecer Llamada campos meta para activar."
+
+#: sections/brandnav/section.php:15
+msgid "BrandNav Section Navigation"
+msgstr "BrandNav Section Navigation"
+
+#: sections/noposts/section.php:17
+msgid "Direct Previewing <em>of</em> &quot;Special Post Types&quot; Not Available... Yet"
+msgstr "Vista previa directa <em>de los</em> &quot;Tipos de funciones especiales&quot; no está disponible ... Aún"
+
+#: sections/noposts/section.php:18
+msgid "Sorry, direct previewing of special post types such as <strong>features</strong> or <strong>boxes</strong> is unavailable. This WordPress functionality is new and rapidly developing, so it should be available soon."
+msgstr "Lo sentimos, dirigir la vista previa de tipos de funciones especiales, tales como <strong>las características</strong> o las <strong>cajas</strong> no está disponible. Esta funcionalidad de WordPress es nuevo y en rápido desarrollo, por lo que debería estar disponible pronto."
+
+#: sections/noposts/section.php:20
+msgid "To preview a &quot;custom post type&quot; just view a page with that &quot;section&quot; on it."
+msgstr "Para previsualizar un &quot;tipo de mensaje personalizado&quot; sólo ver una página con esa &quot;sección&quot; en él."
+
+#: sections/noposts/section.php:25
+msgid "404!"
+msgstr ""
+
+#: sections/noposts/section.php:26
+msgid "Sorry, This Page Does not exist."
+msgstr "Lo sentimos, esta página no existe."
+
+#: sections/noposts/section.php:26
+msgid "Go"
+msgstr "Ir"
+
+#: sections/noposts/section.php:26
+msgid "home"
+msgstr "casa"
+
+#: sections/noposts/section.php:26
+msgid "or try a search?"
+msgstr "o intentar una búsqueda?"
+
+#: sections/nav/section.php:21
+msgid "Primary Website Navigation"
+msgstr "Navegación del sitio web principal"
+
+#: sections/features/section.php:211
+msgid "No Feature posts matched this page's criteria"
+msgstr "No hay mensajes función coincidió con los criterios de esta página"
+
+#: sections/features/section.php:240 sections/footcols/section.php:60
+msgid "More"
+msgstr "Más"
+
+#: sections/features/section.php:472
+msgid "Features"
+msgstr "Características"
+
+#: sections/features/section.php:473
+msgid "Feature"
+msgstr "Característica"
+
+#: sections/features/section.php:480
+msgid "Feature Sets"
+msgstr "Conjuntos de características,"
+
+#: sections/features/section.php:481
+msgid "Feature Set"
+msgstr "Conjunto de características"
+
+#: sections/footcols/section.php:26
+msgid "Use this sidebar if you want to use widgets in your footer columns instead of the default."
+msgstr "Utilice este recuadro si desea utilizar los widgets en sus columnas de pie de página en lugar del predeterminado."
+
+#: sections/footcols/section.php:34
+msgid "Page Navigation in Footer Columns"
+msgstr "Navegación en las columnas pie de página"
+
+#: sections/footcols/section.php:50
+msgid "Pages"
+msgstr "Páginas"
+
+#: sections/footcols/section.php:55
+msgid "The Latest"
+msgstr "Las últimas novedades"
+
+#: sections/morefoot/section.php:66
+msgid "Looking for something?"
+msgstr "¿Buscas algo?"
+
+#: sections/morefoot/section.php:67
+msgid "Use the form below to search the site:"
+msgstr "Utilice el siguiente formulario para buscar en el sitio:"
+
+#: sections/morefoot/section.php:69
+msgid "Still not finding what you're looking for? Drop us a note so we can take care of it!"
+msgstr "¿Todavía no encuentra lo que estás buscando? Envíanos una nota para que podamos cuidar de él!"
+
+#: sections/morefoot/section.php:74
+msgid "Visit our friends!"
+msgstr "Visite a nuestros amigos!"
+
+#: sections/morefoot/section.php:75
+msgid "A few highly recommended friends..."
+msgstr "Unos amigos muy recomendable ..."
+
+#: sections/morefoot/section.php:82
+msgid "All entries, chronologically..."
+msgstr "Todas las entradas, cronológicamente ..."
+
+#: sections/morefoot/section.php:90
+msgid "Left sidebar in <strong>morefoot</strong> section."
+msgstr "Barra lateral izquierda en la sección <strong>morefoot.</strong>"
+
+#: sections/morefoot/section.php:95
+msgid "Middle sidebar in <strong>morefoot</strong> section."
+msgstr "Media barra lateral en la sección <strong>morefoot.</strong>"
+
+#: sections/morefoot/section.php:100
+msgid "Right sidebar in <strong>morefoot</strong> section."
+msgstr "Barra lateral derecha en la sección <strong>morefoot.</strong>"
+
+#: sections/postsinfo/section.php:18
+msgid "Search results for "
+msgstr "Resultados de la búsqueda"
+
+#: sections/postsinfo/section.php:21
+msgid "Currently viewing the category: "
+msgstr "Actualmente estas viendo la categoría:"
+
+#: sections/postsinfo/section.php:24
+msgid "Currently viewing the tag: "
+msgstr "Actualmente estas viendo la etiqueta:"
+
+#: sections/postsinfo/section.php:31
+msgid "Posts by:"
+msgstr "Los mensajes de:"
+
+#: sections/postsinfo/section.php:34
+msgid "From the daily archives:"
+msgstr "De los archivos de diario:"
+
+#: sections/postsinfo/section.php:37
+msgid "From the monthly archives:"
+msgstr "A partir de los archivos mensuales:"
+
+#: sections/postsinfo/section.php:40
+msgid "From the yearly archives:"
+msgstr "De los archivos de cada año:"
+
+#: sections/postsinfo/section.php:43
+msgid "Viewing archives for "
+msgstr "Viendo los archivos de"
+
+#: sections/boxes/section.php:28
+msgid "Boxes"
+msgstr "Cajas"
+
+#: sections/boxes/section.php:29
+msgid "Box"
+msgstr "Caja"
+
+#: sections/boxes/section.php:35
+msgid "Box Sets"
+msgstr "Recopilaciones"
+
+#: sections/boxes/section.php:36
+msgid "Box Set"
+msgstr "Box Set"
+
+#: sections/postauthor/section.php:23
+msgid "About The Author"
+msgstr "Sobre el autor"
+
+#: sections/postauthor/section.php:30
+msgid "Visit Authors Website"
+msgstr "Visite el sitio web de los autores"
+
+#: sections/banners/section.php:22
+msgid "Banners"
+msgstr "Banners"
+
+#: sections/banners/section.php:23
+msgid "Banner"
+msgstr "Bandera"
+
+#: sections/banners/section.php:29
+msgid "Banner Sets"
+msgstr "Establece Banner"
+
+#: sections/banners/section.php:30
+msgid "Banner Set"
+msgstr "Banner Set"
+
+#: sections/banners/section.php:162
+msgid "No Banner posts matched this page's criteria"
+msgstr "No hay mensajes Banner coincidió con los criterios de esta página"
+
+#: sections/highlight/section.php:96
+msgid "Set highlight meta fields to activate."
+msgstr "Establecer los campos de destacar meta para activar."
